@@ -183,7 +183,7 @@ Licence of the data: what the Confederation publishes under its own terms (<http
 
 | Path | What |
 |---|---|
-| `mcp/servers/fedlex/` | the server: sources, tests, 102 recorded fixtures (94 SPARQL answers, 8 Akoma Ntoso documents), `TOOLSET-v1.md` (the contract), `REFERENCE.md`, `ENGINE.md`, `engine.manifest.json`, `engine-conformance/` |
+| `mcp/servers/fedlex/` | the server: sources, tests, 102 recorded fixtures (94 SPARQL answers, 8 Akoma Ntoso documents), `TOOLSET-v1.md` (the contract), `ENGINE.md`, `engine.manifest.json`, `engine-conformance/` |
 | `mcp/servers/common/` | what the association's domain MCP servers share: the polite brake and the semantic fixture store |
 | `third_party/mcp-fedlex/` | three library crates vendored from the upstream fedlex reference workspace (`fedlex-core`, `fedlex-jolux`, `fedlex-akn`), Apache-2.0, byte-identical at the pin named in `PROVENANCE.md` |
 | `docs/reference/fedlex-data-rules.md` | the rulebook: 123 rules (80 JOLux, 43 Akoma Ntoso) the conformance table is gated against |
@@ -214,7 +214,7 @@ Anything else: open an issue in this repository with the command you ran and the
 
 The association develops all its modules in one corpus, on its own GitLab, where every change runs through a gate (formatting, Clippy without warnings, all tests, seal and drift checks). This repository is **assembled from that corpus** by the publication lane (`tools/publish-module.sh` there): it takes the crate and exactly the files its build and tests need, runs the tests in the assembled tree, and pushes here. Each publication is one commit whose message names the corpus commit.
 
-This copy was published from corpus commit `e73cd7c` on 2026-09-03.
+This copy was published from corpus commit `6489121` on 2026-09-03.
 
 On the association's website the module has a card with its state, evidence and dependencies — <https://openhelvetia.swiss/en/directory/building-blocks/fedlex-engine/> — and a guide: <https://openhelvetia.swiss/en/docs/infrastructure/module-fedlex-engine/>. The module is the association's own entry in its directory; the entry page names the endpoint and the probe.
 
