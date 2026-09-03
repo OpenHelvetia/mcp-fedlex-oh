@@ -1,8 +1,8 @@
-# mcp-fedlex
+# mcp-fedlex-oh
 
 > **Kurz auf Deutsch.** Dieser MCP-Server macht das Schweizer Bundesrecht in Fedlex für KI-Systeme nutzbar: SR-Nummer zu ELI auflösen, die an einem Datum geltende Fassung bestimmen, Artikel im Wortlaut lesen, ein Zitat gegen den Normtext prüfen, die kanonische Fundstelle schreiben — 35 Werkzeuge, jede Antwort mit Beleg. Der Server spricht das Model Context Protocol (MCP) über stdin/stdout und lässt sich mit jedem MCP-Client verbinden. Alle Tests laufen offline gegen aufgezeichnete Antworten. Die Daten bleiben beim Bund; dieses Repository ist die Schnittstelle. Anleitung unten auf Englisch, Schritt für Schritt.
 
-**mcp-fedlex** is an MCP server by the association [OpenHelvetia](https://openhelvetia.swiss) over the Confederation's [Fedlex](https://www.fedlex.admin.ch) infrastructure: Swiss federal law through the public SPARQL endpoint and the official Akoma Ntoso texts. It gives an AI system — or any MCP client — 35 tools that close the bitemporal citation loop: resolve an SR number to an ELI, list the versions of an act, determine the consolidation in force at a date, read an article eId-precise, check a quote against the norm text that was read, write the canonical citation.
+**mcp-fedlex-oh** is an MCP server by the association [OpenHelvetia](https://openhelvetia.swiss) over the Confederation's [Fedlex](https://www.fedlex.admin.ch) infrastructure: Swiss federal law through the public SPARQL endpoint and the official Akoma Ntoso texts. It gives an AI system — or any MCP client — 35 tools that close the bitemporal citation loop: resolve an SR number to an ELI, list the versions of an act, determine the consolidation in force at a date, read an article eId-precise, check a quote against the norm text that was read, write the canonical citation.
 
 **What it is not.** It is not a copy of the data and not a service you have to trust: every answer names the row, the IRI or the text it was read from, and the server derives no figure of its own. It keeps no state, needs no account, and stores nothing about you.
 
@@ -46,8 +46,8 @@ Copy each block into a terminal, one after the other. Every command runs from th
 **Clone**
 
 ```bash
-git clone https://github.com/OpenHelvetia/mcp-fedlex.git
-cd mcp-fedlex
+git clone https://github.com/OpenHelvetia/mcp-fedlex-oh.git
+cd mcp-fedlex-oh
 ```
 
 **Build and run the tests** (offline; the first build takes a few minutes)
@@ -78,20 +78,20 @@ Live mode is polite by default: at most two upstream requests per second with a 
 
 The server speaks MCP over **stdio**: the client starts the process and talks to it through its input and output. Any MCP client that supports stdio servers works. Two examples.
 
-**Claude Desktop** — add this to `claude_desktop_config.json` (macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`), replacing `/ABSOLUTE/PATH/TO/mcp-fedlex` with the folder you cloned into, then restart Claude Desktop:
+**Claude Desktop** — add this to `claude_desktop_config.json` (macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`), replacing `/ABSOLUTE/PATH/TO/mcp-fedlex-oh` with the folder you cloned into, then restart Claude Desktop:
 
 ```json
 {
   "mcpServers": {
-    "mcp-fedlex": {
+    "mcp-fedlex-oh": {
       "command": "cargo",
-      "args": ["run", "--quiet", "--locked", "--manifest-path", "/ABSOLUTE/PATH/TO/mcp-fedlex/mcp/servers/fedlex/Cargo.toml"]
+      "args": ["run", "--quiet", "--locked", "--manifest-path", "/ABSOLUTE/PATH/TO/mcp-fedlex-oh/mcp/servers/fedlex/Cargo.toml"]
     }
   }
 }
 ```
 
-For an offline demo add `"--", "--fixtures", "/ABSOLUTE/PATH/TO/mcp-fedlex/mcp/servers/fedlex/tests/fixtures"` to the `args` list.
+For an offline demo add `"--", "--fixtures", "/ABSOLUTE/PATH/TO/mcp-fedlex-oh/mcp/servers/fedlex/tests/fixtures"` to the `args` list.
 
 **Any stdio-capable client** — the command is the same as in §2; the binary itself lives at `mcp/servers/fedlex/target/debug/oh-mcp-fedlex` after a build (`target/release/oh-mcp-fedlex` after `cargo build --release`).
 
@@ -214,7 +214,7 @@ Anything else: open an issue in this repository with the command you ran and the
 
 The association develops all its modules in one corpus, on its own GitLab, where every change runs through a gate (formatting, Clippy without warnings, all tests, seal and drift checks). This repository is **assembled from that corpus** by the publication lane (`tools/publish-module.sh` there): it takes the crate and exactly the files its build and tests need, runs the tests in the assembled tree, and pushes here. Each publication is one commit whose message names the corpus commit.
 
-This copy was published from corpus commit `e7d088f` on 2026-09-03.
+This copy was published from corpus commit `9a70151` on 2026-09-03.
 
 On the association's website the module has a card with its state, evidence and dependencies — <https://openhelvetia.swiss/en/directory/building-blocks/fedlex-engine/> — and a guide: <https://openhelvetia.swiss/en/docs/infrastructure/module-fedlex-engine/>. The module is the association's own entry in its directory; the entry page names the endpoint and the probe.
 
