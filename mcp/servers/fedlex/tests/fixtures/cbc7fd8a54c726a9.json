@@ -1,0 +1,486 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "title",
+      "status",
+      "statusLabel",
+      "entryInForce",
+      "noLonger",
+      "endApp",
+      "docDate",
+      "identifier"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 25 septembre 2020 sur la protection des données (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 25 septembre 2020 sur la protection des données (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 25 septembre 2020 sur la protection des données (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 25 septembre 2020 sur la protection des données (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 25 settembre 2020 sulla protezione dei dati (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 25 settembre 2020 sulla protezione dei dati (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 25 settembre 2020 sulla protezione dei dati (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 25 settembre 2020 sulla protezione dei dati (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Federal Act of 25 September 2020 on Data Protection (Data Protection Act, FADP)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Federal Act of 25 September 2020 on Data Protection (Data Protection Act, FADP)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Federal Act of 25 September 2020 on Data Protection (Data Protection Act, FADP)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Federal Act of 25 September 2020 on Data Protection (Data Protection Act, FADP)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

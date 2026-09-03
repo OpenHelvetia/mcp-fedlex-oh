@@ -1,0 +1,1639 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "ca",
+      "lang",
+      "title",
+      "short",
+      "status",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "concept",
+      "label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/22158"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/27399"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61812"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61813"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61814"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/41121"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61333"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/40114"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/41073"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/30065"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61335"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61334"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

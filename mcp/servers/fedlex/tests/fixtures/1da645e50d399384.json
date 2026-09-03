@@ -1,0 +1,31 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "draft",
+      "draftId",
+      "parlId",
+      "result"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "draft": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/8022/0491"
+        },
+        "parlId": {
+          "type": "literal",
+          "value": "17.059"
+        },
+        "result": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

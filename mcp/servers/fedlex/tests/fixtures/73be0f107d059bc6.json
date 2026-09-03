@@ -1,0 +1,18 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "ca",
+      "lang",
+      "title",
+      "short",
+      "status",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [],
+    "distinct": false,
+    "ordered": true
+  }
+}

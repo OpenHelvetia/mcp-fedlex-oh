@@ -1,0 +1,26 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "date",
+      "url"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "date": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-11-01"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/355/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-355-20231101-fr-xml-7.xml"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

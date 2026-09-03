@@ -1,0 +1,33 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "concept",
+      "label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-it/35148"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-it/28796"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-it/35147"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

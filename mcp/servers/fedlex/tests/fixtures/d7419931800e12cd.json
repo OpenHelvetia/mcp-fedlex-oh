@@ -1,0 +1,48 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "concept",
+      "label"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "label": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Nicht mehr in Kraft",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/4"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Noch nicht in Kraft",
+          "xml:lang": "de"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

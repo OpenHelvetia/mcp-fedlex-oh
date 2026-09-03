@@ -1,0 +1,566 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "title",
+      "status",
+      "statusLabel",
+      "entryInForce",
+      "noLonger",
+      "endApp",
+      "docDate",
+      "identifier"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Noise Abatement Ordinance of 15 December 1986 (NAO)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Noise Abatement Ordinance of 15 December 1986 (NAO)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Noise Abatement Ordinance of 15 December 1986 (NAO)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Noise Abatement Ordinance of 15 December 1986 (NAO)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1986-12-15"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19860372"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

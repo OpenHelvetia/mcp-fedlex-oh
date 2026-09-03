@@ -1,0 +1,181 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "ca",
+      "lang",
+      "title",
+      "short",
+      "status",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

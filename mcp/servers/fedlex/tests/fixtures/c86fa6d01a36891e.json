@@ -1,0 +1,278 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "doc",
+      "role",
+      "kind",
+      "title"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_1"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionIsAboutDraftDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Vorlage",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_10"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Richtlinie-(EU)-680-2016",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_11"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Uebereinkommen",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_12"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Formular für Stellungnahme",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_14"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bericht",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_2"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionIsAboutDraftDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Vorlage",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_3"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionIsAboutDraftDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Vorlage",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_4"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bericht",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_5"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Begleitschreiben",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_6"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Begleitschreiben",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_7"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Adressatenliste",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_8"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Konkordanztabelle",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_9"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Notenaustausch",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "doc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1/doc_13"
+        },
+        "kind": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#DraftRelatedDocument"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#opinionHasDraftRelatedDocument"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

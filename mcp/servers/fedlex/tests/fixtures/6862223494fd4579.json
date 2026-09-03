@@ -1,0 +1,70 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "label",
+      "lang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "en"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "En vigur",
+          "xml:lang": "rm"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "rm"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "it"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

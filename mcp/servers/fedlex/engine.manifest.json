@@ -1,0 +1,78 @@
+{
+  "artifact": "engine-manifest",
+  "status_note": "Written BEFORE engines/standard existed and migrated onto it at AI: the tier id of the third tier moved from «skills» to «generative», the published oh:TierValue name for the same tier (E15's prose calls it Skills after what it is built from; the ontology names it after what it does, and one vocabulary is the point). The vocabulary-IRI hosts the egress gate used to carry in its own code are declared here now, where this engine's review happened. Strategy description: ENGINE.md in this directory. BQ (navigator surface, wave 1): the tool list grew from 8 to 20 and the egress declaration was RE-VERIFIED against the recorded manifestations rather than widened — see capabilities.egress_note. BS: the polite brake — every live request to the one egress host passes a token bucket (2/s, burst 4, at most 5 s of waiting, then the typed upstream-busy); the declaration «single polite requests, no campaigns» is enforced in code.",
+  "engine": "fedlex",
+  "version": "0.6.0",
+  "holding": {
+    "name": "Swiss federal law corpus (Fedlex)",
+    "authority": "Swiss Federal Chancellery — public official publication platform",
+    "sovereignty_note": "The source stays with the publishing authority; the engine generates no holding data, derivations are reproducible from the source (E15 Leitsatz).",
+    "input_types": [
+      {
+        "id": "jolux-rdf",
+        "what": "JOLux RDF metadata graph (19 classes, 65 predicates, 46 SKOS vocabularies) via the public SPARQL endpoint — metadata, never law text",
+        "access": "SPARQL over HTTPS"
+      },
+      {
+        "id": "akoma-ntoso-xml",
+        "what": "Akoma-Ntoso XML manifestations — authentic norm text, eId-addressed",
+        "access": "HTTPS manifestation fetch (ELI-resolved; the graph's jolux:isExemplifiedBy URL, which lives under the SAME host as the endpoint — recorded reality, enforced by backend::MANIFESTATION_HOST)"
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "id": "base",
+      "status": "built",
+      "implementation": "oh-mcp-fedlex (this directory): 35 tools (TOOLSET-v1.md) — the 8-tool v0 spine, the 12-tool navigator surface of BQ wave 1, the 13-tool wave 2 of BR (tables, citation parsing, formal citations as directions of get_citations, version comparison, node view, foreign content, treaties, consultations, drafts, Official Compilation, Federal Gazette), the citation pair of BT beyond the reference reader (check_quote: a quote proven against the norm text that was read, wording only; cite: the canonical Fundstelle of an eId), search_law with exact abbreviation resolution and in-force/systematic ranking since BO′; every tool proven offline on recorded fixtures, every fixture recorded live with single polite requests (domestic acts, ordinances and the EMRK treaty). XML tools bind the vendored fedlex-akn layer, JOLux tools the vendored fedlex-jolux primitives (third_party/mcp-fedlex, Apache-2.0).",
+      "resource_profile": "stateless, no own index; since BS every live request (SPARQL select or manifestation fetch) passes the polite brake — 2 requests/s sustained, burst 4, at most 5 s of waiting, beyond that the typed upstream-busy refusal with retry_after_ms; cache hits and fixtures are never braked; since BO′ a bounded in-process manifestation cache (LRU, 64 MiB / 256 entries, no persistence, dies with the process) in the live backend: a JOLux tool costs one to seven SPARQL queries (get_article_history three: impacts, amending acts, versions; find_related_topic by SR up to four; search_law one or two — abbreviation pre-query plus title window; parse_reference one per distinct abbreviation; get_consultations by act one plus one per draft, at most six; get_citations cites two, explore_node two; cite one profile query beside the cached manifestation, check_quote none beyond the manifestation); an XML tool costs one SPARQL query (manifestation resolution) plus one manifestation fetch on the FIRST read of a version and language, and nothing upstream on repeat reads — the answer then says provenance.served: cache and keeps the real retrieval moment as transaction_time",
+      "cost_profile": "cheap; every tool weighs the same — 2 budget units at the gateway (oh_mcp_gateway::call_weight), a CEILING under which a cached XML answer is cheaper and says so; the reference prototype's separate cache-served class is not claimed. Enforced in the gateway budget layer (E11-WP7), not in the server"
+    },
+    {
+      "id": "semantic",
+      "status": "not-built",
+      "reference_shape": "sister component with own indexer and vector index (reference: mcp-fedlex-semantic; ingestion via embedding outbox + DLQ against silent index drift, upstream ADR-003)",
+      "resource_profile": "vector index + indexer pipeline; embedding infrastructure",
+      "cost_profile": "index build + embedding cost; declared here as PLANNED, never as served capability"
+    },
+    {
+      "id": "generative",
+      "status": "not-built",
+      "reference_shape": "primitives composed into auditable reasoning steps (reference: mcp-fedlex-skills); generative outputs remain marked drafts with audit trail in the usage context and never become holding or memory (E15 Ziff. 1/6)",
+      "resource_profile": "composition layer over base/semantic",
+      "cost_profile": "per-use; declared here as PLANNED"
+    }
+  ],
+  "generated_manifest": {
+    "pointer": "https://ld.openhelvetia.swiss/mcp/fedlex/manifest",
+    "status": "NOT YET SERVED — the platform manifest (registry standard shape, incl. this tier declaration and the L0.8 probe hint) goes live with the ld.* switch-on; until then this pointer is a declared target, not a served resource"
+  },
+  "capabilities": {
+    "declared": [
+      "read-holding",
+      "serve-tools",
+      "network-egress"
+    ],
+    "tools": "capability ids fedlex.* per TOOLSET-v1.md (tool names ARE capability ids, gateway convention). v0 spine: resolve_sr, search_law, get_law_metadata, list_versions, resolve_consolidation_at, check_in_force, get_citations, read_article. BQ wave 1, XML tools (fedlex-akn over the version's manifestation): get_structure, search_text, read_document, get_references, get_modifications, list_annexes. BQ wave 1, JOLux tools (fedlex-jolux primitives, live graph): get_article_history, get_subdivisions, get_taxonomy, list_expressions, resolve_vocabulary_label, find_related_topic. BR wave 2, XML tools: extract_tables, compare_versions, detect_foreign_content; text: parse_reference (resolves the act through the abbreviation pre-query); JOLux tools: get_citations directions cites|cited_by, explore_node, find_treaties, get_treaty_info, get_consultations, get_consultation_documents, get_oc_act, get_memorial, get_fga_documents, get_drafts. BT, the citation pair (no upstream counterpart): check_quote (XML, through the cache), cite (XML through the cache plus one profile query). Discovery is two-stage (E16): the stage-one line of every tool is ≤160 characters, verb-first, names when to use it and whether it answers a hint or a norm.",
+    "egress": [
+      "fedlex.data.admin.ch:443"
+    ],
+    "iri_namespace_hosts": [
+      "data.legilux.public.lu",
+      "purl.org",
+      "www.w3.org",
+      "publications.europa.eu",
+      "docs.oasis-open.org"
+    ],
+    "egress_note": "docs.oasis-open.org is the Akoma-Ntoso XML namespace (a synthetic document in the crate's unit tests names it) — a vocabulary IRI, never a connect target, declared here at BR. EXHAUSTIVE per E15 Ziff. 3a (syntax Domain[:Port]) — the base tier reaches the public Fedlex host and nothing else, for BOTH input types: the SPARQL endpoint (fedlex.data.admin.ch/sparqlendpoint) AND the manifestation files (fedlex.data.admin.ch/filestore/…). The BQ assignment expected a second manifestation host (www.fedlex.admin.ch, the human portal); the recorded manifestations of BGÖ, KVG and LSV — 22 URLs across XML/PDF/HTML/DOCX in five languages — all live under fedlex.data.admin.ch, so no second host is declared: a declared host no code reaches would be described-but-dead egress. The server ENFORCES this at runtime (backend::MANIFESTATION_HOST: a manifestation URL outside the prefix is refused, never fetched) on top of the grep-level conformance gate (engines/standard/conformance/, method and limits in ENGINE.md §6); runtime network policy (deny-by-default on k3s) is the deploy step's cut. Politeness towards that one host is enforced too (BS): the backend's token bucket brakes every live request, selects and fetches alike, and refuses instead of queueing beyond five seconds"
+  },
+  "commercial_dependencies": [],
+  "spec": "https://ld.openhelvetia.swiss/ns/engines/0.1/engine",
+  "strategy": {
+    "document": "ENGINE.md",
+    "chunking": "no chunking at the base tier: JOLux metadata is queried, never split; the XML tools read whole manifestations and answer eId-addressed slices or capped views (truncated flag + original size); the semantic tier's chunking is a planned decision of that tier",
+    "graph_model": "JOLux (data.legilux.public.lu) as published by the authority — 19 classes, 65 predicates, 46 SKOS vocabularies; the engine adds no classes of its own",
+    "retrieval": "SPARQL against the public endpoint for metadata, ELI-resolved manifestation fetch for norm text; in-act navigation (outline, substring search, references, amendment notes, annexes) over the Akoma-Ntoso manifestation of ONE version; recorded fixtures serve the deterministic paths",
+    "evaluation": "live-proven tool spine (TOOLSET-v1.md) plus recorded-fixture regression, including the proof that a model reaches a norm text without knowing the article number (search_text → read_article on the BGÖ); the LEXam-style semantic evaluation belongs to the semantic tier and is not claimed here"
+  }
+}

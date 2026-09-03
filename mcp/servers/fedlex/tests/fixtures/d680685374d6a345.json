@@ -1,0 +1,430 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "title",
+      "status",
+      "statusLabel",
+      "entryInForce",
+      "noLonger",
+      "endApp",
+      "docDate",
+      "identifier"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales (CEDH)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales (CEDH)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales (CEDH)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales (CEDH)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali (CEDU)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali (CEDU)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali (CEDU)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1974-11-28"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19500267"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali (CEDU)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

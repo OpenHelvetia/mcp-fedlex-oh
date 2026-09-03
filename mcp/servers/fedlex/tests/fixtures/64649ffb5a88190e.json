@@ -1,0 +1,646 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "title",
+      "status",
+      "statusLabel",
+      "entryInForce",
+      "noLonger",
+      "endApp",
+      "docDate",
+      "identifier"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Nicht mehr in Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Energiegesetz vom 26. Juni 1998 (EnG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Non più in vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Energiegesetz vom 26. Juni 1998 (EnG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "No longer in force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Energiegesetz vom 26. Juni 1998 (EnG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Plus en vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Energiegesetz vom 26. Juni 1998 (EnG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Non più in vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi du 26 juin 1998 sur l'énergie (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Nicht mehr in Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi du 26 juin 1998 sur l'énergie (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Plus en vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi du 26 juin 1998 sur l'énergie (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "No longer in force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi du 26 juin 1998 sur l'énergie (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Nicht mehr in Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge sull'energia del 26 giugno 1998 (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Non più in vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge sull'energia del 26 giugno 1998 (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "No longer in force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge sull'energia del 26 giugno 1998 (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Plus en vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge sull'energia del 26 giugno 1998 (LEne)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ROH"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Plus en vigueur",
+          "xml:lang": "fr"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lescha dals 30 da settember 2016 d'energia (LEn)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ROH"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "No longer in force",
+          "xml:lang": "en"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lescha dals 30 da settember 2016 d'energia (LEn)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ROH"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Nicht mehr in Kraft",
+          "xml:lang": "de"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lescha dals 30 da settember 2016 d'energia (LEn)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-06-26"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "19983485"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ROH"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Non più in vigore",
+          "xml:lang": "it"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lescha dals 30 da settember 2016 d'energia (LEn)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

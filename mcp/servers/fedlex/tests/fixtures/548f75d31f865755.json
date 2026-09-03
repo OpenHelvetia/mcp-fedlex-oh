@@ -1,0 +1,135 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "url"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/fr/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-fr-xml-8.xml"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/fr/html/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-fr-html-9.html"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/it/docx/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-it-docx-4.docx"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/it/html/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-it-html-9.html"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-de-xml-8.xml"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-it-xml-8.xml"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/it/pdf-a/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-it-pdf-a-1.pdf"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/de/docx/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-de-docx-6.docx"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/de/html/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-de-html-9.html"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/de/pdf-a/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-de-pdf-a-2.pdf"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/fr/docx/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-fr-docx-5.docx"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "url": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916/fr/pdf-a/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20220916-fr-pdf-a-2.pdf"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

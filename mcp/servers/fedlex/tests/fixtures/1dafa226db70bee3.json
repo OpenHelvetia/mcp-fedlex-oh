@@ -1,0 +1,93 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "other",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2000/19"
+        },
+        "sr": {
+          "type": "literal",
+          "value": "152.22"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/354"
+        },
+        "sr": {
+          "type": "literal",
+          "value": "152.1"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/460"
+        },
+        "sr": {
+          "type": "literal",
+          "value": "152.21"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/1999/460"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/758"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2014/453"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2022/2408"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2013/177"
+        }
+      },
+      {
+        "other": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/1999/354"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

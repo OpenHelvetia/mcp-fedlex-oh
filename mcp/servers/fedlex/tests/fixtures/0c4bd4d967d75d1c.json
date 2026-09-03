@@ -1,0 +1,112 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "short",
+      "title",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "BGÖ"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 17. Dezember 2004 über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz, BGÖ)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "short": {
+          "type": "literal",
+          "value": "FoIA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Federal Act of 17 December 2004 on Freedom of Information in the Administration (Freedom of Information Act, FoIA)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LTrans"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 17 décembre 2004 sur le principe de la transparence dans l'administration (Loi sur la transparence, LTrans)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LTras"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 17 dicembre 2004 sul principio di trasparenza dell'amministrazione (Legge sulla trasparenza, LTras)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ROH"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LTrans"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "152.3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lescha federala dals 17 da december 2004 davart il princip da la transparenza da l'administraziun (Lescha da transparenza, LTrans)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

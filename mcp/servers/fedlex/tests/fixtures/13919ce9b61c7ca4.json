@@ -1,0 +1,210 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "p",
+      "o"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "o": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#ConsolidationAbstract"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#Work"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#WorkAtOj"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "o": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2004-12-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#dateDocument"
+        }
+      },
+      {
+        "o": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "20022540"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://purl.org/dc/terms/identifier"
+        }
+      },
+      {
+        "o": {
+          "type": "literal",
+          "value": "152.3"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#historicalLegalId"
+        }
+      },
+      {
+        "o": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://cogni.internal.system/model#skipIndex"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/de"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isRealizedBy"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/en"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isRealizedBy"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/fr"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isRealizedBy"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/it"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isRealizedBy"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/rm"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isRealizedBy"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#inForceStatus"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/resource-type/54"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#historicalTypeDocument"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#classifiedByTaxonomyEntry"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#basicAct"
+        }
+      },
+      {
+        "o": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2006-07-01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#dateEntryInForce"
+        }
+      },
+      {
+        "o": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/resource-type/21"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#typeDocument"
+        }
+      },
+      {
+        "o": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2006-07-01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://cogni.internal.system/model#firstPublicationDate"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

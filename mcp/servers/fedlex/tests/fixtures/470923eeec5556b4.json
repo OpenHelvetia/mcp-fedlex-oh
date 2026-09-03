@@ -1,0 +1,82 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "title",
+      "status",
+      "statusLabel",
+      "entryInForce",
+      "noLonger",
+      "endApp",
+      "docDate",
+      "identifier"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "20202930"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "20202930"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale sur la protection des données (LPD)"
+        }
+      },
+      {
+        "docDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2020-09-25"
+        },
+        "identifier": {
+          "datatype": "https://fedlex.data.admin.ch/datatype/dossier",
+          "type": "typed-literal",
+          "value": "20202930"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale sulla protezione dei dati (LPD)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

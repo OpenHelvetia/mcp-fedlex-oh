@@ -1,0 +1,32 @@
+# Vendoring workspace stub (OpenHelvetia addition — see PROVENANCE.md).
+# The three crates below are vendored from the upstream workspace
+# github.com/mindful-bio/mcp-fedlex at the pinned commit; their own
+# Cargo.toml files are UNCHANGED and resolve `*.workspace = true`
+# fields against this stub, which replicates the upstream
+# [workspace.package] and [workspace.lints] values verbatim. Only the
+# member list is shortened to the vendored subset.
+
+[workspace]
+resolver = "2"
+members = [
+    "fedlex-core",
+    "fedlex-akn",
+    "fedlex-jolux",
+]
+
+[workspace.package]
+version = "0.2.0"
+
+edition = "2024"
+
+license = "Apache-2.0"
+
+authors = ["mindful.bio"]
+repository = "https://github.com/mindful-bio/mcp-fedlex"
+
+[workspace.lints.clippy]
+all = "warn"
+
+[profile.release]
+lto = true
+codegen-units = 1

@@ -1,0 +1,18 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "cons",
+      "status",
+      "title",
+      "start",
+      "end",
+      "inst"
+    ]
+  },
+  "results": {
+    "bindings": [],
+    "distinct": false,
+    "ordered": true
+  }
+}

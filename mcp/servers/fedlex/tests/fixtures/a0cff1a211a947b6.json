@@ -1,0 +1,550 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "ca",
+      "lang",
+      "title",
+      "short",
+      "status",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 19. Juni 1992 über den Datenschutz (DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2020/2930_cc"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "DSG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "235.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 25. September 2020 über den Datenschutz (Datenschutzgesetz, DSG)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

@@ -1,0 +1,2435 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "dst",
+      "desc"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Auskunfts- und Einsichtsrechte"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Übergangsbestimmung zur Änderung vom 30. September 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Übergangsbestimmung zur Änderung vom 30. September 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Übergangsbestimmung zur Änderung vom 30. September 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Änderung bisherigen Rechts"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Schutz von Personendaten und von Daten juristischer Personen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection des données personnelles et des données concernant des personnes morales"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protezione dei dati personali e dei dati concernenti persone giuridiche"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Schutz von Personendaten und von Daten juristischer Personen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection des données personnelles et des données concernant des personnes morales"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protezione dei dati personali e dei dati concernenti persone giuridiche"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Schutz von Personendaten und von Daten juristischer Personen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection des données personnelles et des données concernant des personnes morales"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protezione dei dati personali e dei dati concernenti persone giuridiche"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Anhörung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Droit d’être entendu"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Diritto di essere consultati"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Anhörung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Droit d’être entendu"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Diritto di essere consultati"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Stellungnahme der Behörde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Prise de position de l’autorité"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Presa di posizione dell’autorità"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Stellungnahme der Behörde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Prise de position de l’autorité"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Presa di posizione dell’autorità"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Stellungnahme der Behörde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Prise de position de l’autorité"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Presa di posizione dell’autorità"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Stellungnahme der Behörde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Prise de position de l’autorité"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Presa di posizione dell’autorità"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Schlichtung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Médiation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Schlichtung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Médiation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2003/246/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Empfehlung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Recommandation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2003/246/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Empfehlung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Recommandation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2003/246/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Verfügung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Décision"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Verfügung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Décision"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Raccomandazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Verfügung"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Décision"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Raccomandazione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Beschwerde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/352/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Recours"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/352/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Decisione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Beschwerde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/188/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Recours"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/188/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Decisione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Beschwerde"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2001/731/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Recours"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2001/731/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Decisione"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Ricorso"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/352/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Ricorso"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/188/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Persönlicher Geltungsbereich"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Ricorso"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2001/731/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Champ d’application à raison de la personne"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Campo d’applicazione personale"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Kostenloser Zugang zu amtlichen Dokumenten"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuité de l’accès aux documents officiels"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Persönlicher Geltungsbereich"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2008/736/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Tâches et compétences"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Champ d’application à raison de la personne"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2008/736/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Tâches et compétences"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Campo d’applicazione personale"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2008/736/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Droit d’obtenir des renseignements et de consulter les documents"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Gratuità dell’accesso a documenti ufficiali"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Droit d’obtenir des renseignements et de consulter les documents"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Compiti e competenze"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposition transitoire relative à la modification du 30 septembre 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Compiti e competenze"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposition transitoire relative à la modification du 30 septembre 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Diritto di ottenere informazioni e di consultare i documenti"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposition transitoire relative à la modification du 30 septembre 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Diritto di ottenere informazioni e di consultare i documenti"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Aufgaben und Kompetenzen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Modification du droit en vigueur"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposizione transitoria della modifica del 30 settembre 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Auskunfts- und Einsichtsrechte"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposizione transitoria della modifica del 30 settembre 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2277/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposizione transitoria della modifica del 30 settembre 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2020/2628/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Persönlicher Geltungsbereich"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2006/303/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Modifica del diritto vigente"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Champ d’application à raison de la personne"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2006/303/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Campo d’applicazione personale"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2006/303/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Sachlicher Geltungsbereich"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Champ d’application à raison de la matière"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Campo d’applicazione materiale"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Sachlicher Geltungsbereich"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Champ d’application à raison de la matière"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Campo d’applicazione materiale"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Sachlicher Geltungsbereich"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Champ d’application à raison de la matière"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Campo d’applicazione materiale"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Schutz von Personendaten und von Daten juristischer Personen"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection des données personnelles et des données concernant des personnes morales"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protezione dei dati personali e dei dati concernenti persone giuridiche"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protecziun da datas persunalas e da datas da persunas giuridicas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protecziun da datas persunalas e da datas da persunas giuridicas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protecziun da datas persunalas e da datas da persunas giuridicas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Audiziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Audiziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Posiziun da l’autoritad"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Posiziun da l’autoritad"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Posiziun da l’autoritad"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Posiziun da l’autoritad"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediaziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/538/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediaziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediaziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Recumandaziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Recumandaziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2003/246/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Disposiziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Disposiziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Disposiziun"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Recurs"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/352/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Recurs"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/188/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Recurs"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2001/731/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access gratuit a documents uffizials"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access gratuit a documents uffizials"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access gratuit a documents uffizials"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access gratuit a documents uffizials"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Champ d’applicaziun persunal"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Incumbensas e cumpetenzas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Dretgs d’obtegnair infurmaziuns e da consultar documents"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Dretgs d’obtegnair infurmaziuns e da consultar documents"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Champ d’applicaziun persunal"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2008/736/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Disposiziun transitorica da la midada dals 30 da settember 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Midada dal dretg vertent"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Champ d’applicaziun persunal"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2006/303/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Champ d’applicaziun material"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Champ d’applicaziun material"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Champ d’applicaziun material"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protecziun da datas persunalas e da datas da persunas giuridicas"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection of personal data and the data of legal entities"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection of personal data and the data of legal entities"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection of personal data and the data of legal entities"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Consultation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Consultation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1999/404/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Decision of the Authority"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Decision of the Authority"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Decision of the Authority"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 12 Decision of the Authority"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Mediation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Recommendation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Recommendation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Ruling"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Ruling"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2003/246/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15 Ruling"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Appeal"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/352/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Appeal"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/188/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 16 Appeal"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2001/731/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access to official documents free of charge"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access to official documents free of charge"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access to official documents free of charge"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 17 Access to official documents free of charge"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Personal scope of application"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1969/737_757_755/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Duties and Competencies"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Right to information and inspection"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Right to information and inspection"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23a Transitional provision to the Amendment of 30 September 2022"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Amendment of Existing Legislation"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Personal scope of application"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2008/736/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 2 Personal scope of application"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2006/303/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Material scope of application"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Material scope of application"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 3 Material scope of application"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2017/2057/text"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Protection of personal data and the data of legal entities"
+        },
+        "dst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2022/491/text"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

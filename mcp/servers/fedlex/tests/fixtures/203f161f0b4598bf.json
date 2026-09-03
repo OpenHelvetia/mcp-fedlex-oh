@@ -1,0 +1,165 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "m",
+      "act"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/367"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/366"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/354"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/358"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/359"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/356"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/360"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/368"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/362"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/357"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/363"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/364"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/361"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      },
+      {
+        "act": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/365"
+        },
+        "m": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

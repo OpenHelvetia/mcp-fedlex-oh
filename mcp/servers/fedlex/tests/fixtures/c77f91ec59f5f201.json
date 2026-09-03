@@ -1,0 +1,2992 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "ca",
+      "lang",
+      "title",
+      "short",
+      "status",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/164"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VPVKEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.5"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 3. Juli 2001 über die Prämienverbilligung in der Krankenversicherung für Rentner und Rentnerinnen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen (VPVKEU)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/164"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORPMUE"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.5"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 3 juillet 2001 concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni (ORPMUE)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/164"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORPMUE"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.5"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 3 luglio 2001 sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito (ORPMUE)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/840"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVAV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 18. November 2015 betreffend die Aufsicht über die soziale Krankenversicherung (Krankenversicherungsaufsichtsverordnung, KVAV)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/840"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OSAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladie sociale (Ordonnance sur la surveillance de l'assurance-maladie, OSAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/840"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OVAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazione sociale contro le malattie (Ordinanza sulla vigilanza sull'assicurazione malattie, OVAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2011/676"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ResV-EDI"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102.15"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung des EDI vom 18. Oktober 2011 über die Reserven in der sozialen Krankenversicherung (ResV-EDI) "
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2011/676"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORe-DFI"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102.15"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du DFI du 18 octobre 2011 sur les réserves dans l'assurance-maladie sociale (ORe-DFI) "
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2011/676"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORAMal-DFI"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102.15"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del DFI del 18 ottobre 2011 concernente le riserve nell'assicurazione sociale malattie (ORAMal-DFI) "
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1377_1377_1377"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VPVK"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 12. April 1995 über die Beiträge des Bundes zur Prämienverbilligung in der Krankenversicherung (VPVK)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1377_1377_1377"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORPM"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 12 avril 1995 sur les subsides fédéraux destinés à la réduction de primes dans l'assurance-maladie (ORPM)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1377_1377_1377"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORPM"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 12 aprile 1995 concernente i sussidi della Confederazione per la riduzione dei premi nell'assicurazione malattie (ORPM)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1371_1371_1371"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VORA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 12. April 1995 über den Risikoausgleich in der Krankenversicherung (VORA)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1371_1371_1371"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCoR"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 12 avril 1995 sur la compensation des risques dans l'assurance-maladie (OCoR)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1371_1371_1371"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCoR"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 12 aprile 1995 sulla compensazione dei rischi nell'assicurazione malattie (OCoR)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/674"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VORA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 19. Oktober 2016 über den Risikoausgleich in der Krankenversicherung (VORA)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/674"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCoR"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 19 octobre 2016 sur la compensation des risques dans l'assurance-maladie (OCoR)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/674"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCoR"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 19 ottobre 2016 sulla compensazione dei rischi nell'assicurazione malattie (OCoR)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/418"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VKL"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.104"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 3. Juli 2002 über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung (VKL)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/418"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCP"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.104"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement des prestations par les hôpitaux, les maisons de naissance et les établissements médico-sociaux dans l'assurance-maladie (OCP)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/418"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCPre"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.104"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 3 luglio 2002 sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell'assicurazione malattie (OCPre)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/805"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VPVK"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 7. November 2007 über den Bundesbeitrag zur Prämienverbilligung in der Krankenversicherung (VPVK)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/805"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORPM"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 7 novembre 2007 sur les subsides fédéraux destinés à la réduction des primes dans l'assurance maladie (ORPM)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/805"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "ORPM"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 7 novembre 2007 concernente il sussidio della Confederazione per la riduzione dei premi nell'assicurazione malattie (ORPM)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/839"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVAG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.12"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 26. September 2014 betreffend die Aufsicht über die soziale Krankenversicherung (Krankenversicherungsaufsichtsgesetz, KVAG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/839"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LSAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.12"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 26 septembre 2014 sur la surveillance de l'assurance-maladie sociale (Loi sur la surveillance de l'assurance-maladie, LSAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/839"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LVAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.12"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 26 settembre 2014 concernente la vigilanza sull'assicurazione sociale contro le malattie (Legge sulla vigilanza sull'assicurazione malattie, LVAMal)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2019/618"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "VORA-EDI"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.11"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoausgleichs in der Krankenversicherung (VORA-EDI)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2019/618"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCoR-DFI"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.11"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du DFI du 14 octobre 2019 sur la mise en œuvre de la compensation des risques dans l'assurance-maladie (OCoR-DFI)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2019/618"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OCoR-DFI"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.11"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del DFI del 14 ottobre 2019 sull'attuazione della compensazione dei rischi nell'assicurazione malattie (OCoR-DFI)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/31_32_33"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.132"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung II vom 22. Dezember 1964 über die Krankenversicherung betreffend die Kollektivversicherung bei den vom Bund anerkannten Krankenkassen"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/31_32_33"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.132"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance II du 22 décembre 1964 sur l'assurance-maladie concernant l'assurance collective pratiquée par les caisses-maladie reconnues par la Confédération"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/31_32_33"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.132"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza II del 22 dicembre 1964 sull'assicurazione contro le malattie concernente l'assicurazione collettiva esercitata dalle casse malati riconosciute dalla Confederazione"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1966/499_519_515"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung VI vom 11. März 1966 über die Krankenversicherung betreffend die Zulassung von medizinischen Hilfspersonen zur Betätigung für die Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1966/499_519_515"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance VI du 11 mars 1966 sur l'assurance-maladie concernant l'autorisation donnée au personnel paramédical de pratiquer à la charge de l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1966/499_519_515"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza VI dell'11 marzo 1966 sull'assicurazione contro le malattie concernente l'autorizzazione data al personale sanitario ausiliario di esercitare a carico dell'assicurazione contro le malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/86_86_86"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 11 des EDI vom 8. Dezember 1986 über die Krankenversicherung betreffend Mitgliederbeiträge bei wählbarer Franchise"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/86_86_86"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 11 du DFI du 8 décembre 1986 sur l'assurance-maladie concernant les cotisations en cas de franchise à option"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/86_86_86"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 11 del DFI dell'8 dicembre 1986 sull'assicurazione contro le malattie concernente le quote in caso di franchigia opzionale"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1986/87_87_87"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.12"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 8 des EDI vom 20. Dezember 1985 über die Krankenversicherung betreffend die von den anerkannten Krankenkassen zu übernehmenden psychotherapeutischen Behandlungen"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1986/87_87_87"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.12"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 8 du DFI du 20 décembre 1985 sur l'assurance-maladie concernant les traitements psychothérapeutiques à la charge des caisses-maladie reconnues"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1986/87_87_87"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.12"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 8 del DFI del 20 dicembre 1985 sull'assicurazione contro le malattie concernente i trattamenti psicoterapeutici a carico delle casse malati riconosciute"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/90_94_93"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung V vom 2. Februar 1965 über die Krankenversicherung betreffend die Anerkennung von Krankenkassen und Rückversicherungsverbänden sowie ihre finanzielle Sicherheit"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/90_94_93"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance V du 2 février 1965 sur l'assurance-maladie concernant la reconnaissance des caisses-maladie et des fédérations de réassurance, ainsi que leur sécurité financière"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/90_94_93"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza V del 2 febbraio 1965 sull'assicurazione contro le malattie concernente il riconoscimento delle casse malati e delle federazioni di riassicurazione come pure la loro sicurezza finanziaria"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1738_1738_1738"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung IX vom 31. August 1992 über die Krankenversicherung betreffend den Risikoausgleich unter den Krankenkassen"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1738_1738_1738"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance IX du 31 août 1992 sur l'assurance-maladie concernant la compensation des risques entre les caisses-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1738_1738_1738"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza IX del 31 agosto 1992 sull'assicurazione contro le malattie concernente la compensazione dei rischi tra le casse malati"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/2374_2374_2374"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 15 des EDI vom 13 Juli 1993 über die Krankenversicherung betreffend die Höchstbeträge in der Krankenpflegeversicherung für das Jahr 1994"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/2374_2374_2374"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 15 du DFI du 13 juillet 1993 sur l'assurance-maladie concernant les montants maximums dans l'assurance des soins médicaux et pharmaceutiques pour l'année 1994"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/2374_2374_2374"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 15 del DFI del 13 luglio 1993 sull'assicurazione contro le malattie concernente gli importi massimi dei premi nell'assicurazione per cure mediche e farmaceutiche nel 1994"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1367_1367_1367"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 12. April 1995 über die Inkraftsetzung und Einführung des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1367_1367_1367"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 12 avril 1995 concernant l'entrée en vigueur et l'introduction de la loi fédérale du 18 mars 1994 sur l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1367_1367_1367"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.101"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 12 aprile 1995 concernente l'entrata in vigore e l'introduzione della legge federale del 18 marzo 1994 sull'assicurazione malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1968/1496_1543_1463"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.24"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verfügung 10 des Eidgenössischen Departements des Innern vom 19. November 1968 über die Krankenversicherung betreffend die Aufnahme von Arzneimitteln in die Spezialitätenliste"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1968/1496_1543_1463"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.24"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 10 du département fédéral de l'intérieur du 19 novembre 1968 sur l'assurance-maladie (Admission des médicaments sur la liste des spécialités)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1968/1496_1543_1463"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.24"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 10 del Dipartimento federale dell'interno del 19 novembre 1968 sull'assicurazione contro le malattie concernente l'ammissione di medicamenti nell'elenco delle specialità"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/98_102_102"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.190.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 1 des EDI vom 27. Januar 1965 über die Krankenversicherung betreffend die Geltendmachung der Bundesbeiträge an Wartgelder für Ärzte"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/98_102_102"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.190.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 1 du DFI du 27 janvier 1965 (Exercice du droit aux subsides fédéraux pour les indemnités annuelles versées aux médecins)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/98_102_102"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.190.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 1 del DFI del 27 gennaio 1965 sull'assicurazione contro le malattie concernente l'esercizio del diritto ai sussidi federali per le indennità annue versate ai medici"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1968/1318_1366_1282"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung VIII vom 30. Oktober 1968 über die Krankenversicherung betreffend die Auswahl von Arzneimitteln und Analysen"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1968/1318_1366_1282"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance VIII du 30 octobre 1968 sur l'assurance-maladie concernant le choix des médicaments et des analyses"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1968/1318_1366_1282"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza VIII del 30 ottobre 1968 sull'assicurazione contro le malattie concernente la scelta dei medicamenti e delle analisi"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/841"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung des BAG vom 25. November 2015 über Rechnungslegung und Berichterstattung in der sozialen Krankenversicherung "
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/841"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance de l'OFSP du 25 novembre 2015 sur l'établissement des comptes et la présentation des rapports dans le domaine de l'assurance-maladie sociale "
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/841"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza dell'UFSP del 25 novembre 2015 sulla presentazione dei conti e i rendiconti nell'assicurazione sociale contro le malattie "
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/41_45_45"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.140"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung III vom 15. Januar 1965 über die Krankenversicherung betreffend die Leistungen der vom Bund anerkannten Krankenkassen und Rückversicherungsverbände"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/41_45_45"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.140"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance III du 15 janvier 1965 sur l'assurance-maladie concernant les prestations des caisses-maladie et fédérations de réassurance reconnues par la Confédération"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/41_45_45"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.140"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza III del 15 gennaio 1965 sull'assicurazione contro le malattie concernente le prestazioni delle casse malati e delle federazioni di riassicurazione riconosciute dalla Confederazione"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/613_619_612"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.143.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verfügung 4 des Eidgenössischen Departementes des Innern vom 30. Juli 1965 über die Krankenversicherung betreffende die Anerkennung und Überwachung von Präventorien zur Aufnahme Minderjähriger"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/613_619_612"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.143.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 4 du département fédéral de l'intérieur du 30 juillet 1965 sur l'assurance-maladie concernant la reconnaissance et la surveillance des préventoriums admis à recevoir des assurés mineurs"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/613_619_612"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.143.1"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 4 del Dipartimento federale dell'interno del 30 luglio 1965 sull'assicurazione contro le malattie concernente il riconoscimento e la vigilanza dei preventori autorizzati ad accogliere assicurati minorenni"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1994/3096_3096_3096"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 15 des EDI vom 11. November 1994 über die Krankenversicherung betreffend die Höchstbeträge in der Krankenpflegeversicherung für das Jahr 1995"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1994/3096_3096_3096"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 15 du DFI du 11 novembre 1994 sur l'assurance-maladie concernant les montants maximums dans l'assurance des soins médicaux et pharmaceutiques pour l'année 1995"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1994/3096_3096_3096"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 15 del DFI dell'11 novembre 1994 sull'assicurazione contro le malattie concernente gli importi massimi dei premi nell'assicurazione per cure mediche e farmaceutiche nel 1995"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1990/1978_1978_1978"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 13 des EDI vom 29. Mai 1990 über die Krankenversicherung betreffend Mitgliederbeiträge in der Bonusversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1990/1978_1978_1978"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 13 du DFI du 29 mai 1990 sur l'assurance-maladie concernant les cotisations dans l'assurance avec bonus"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1990/1978_1978_1978"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 13 del DFI del 29 maggio 1990 sull'assicurazione contro le malattie concernente le quote dell'assicurazione con bonus"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1744_1744_1744"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 31. August über Beiträge an die Kantone zur Verbilligung der Prämien in der Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1744_1744_1744"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 31 août 1992 sur les subsides aux cantons pour la réduction de cotisations dans l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1744_1744_1744"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 31 agosto 1992 sui sussidi ai Cantoni per la riduzione dei premi nell'assicurazione malattia"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/2517_2517_2517"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 15 des EDI vom 30. November 1992 über die Krankenversicherung betreffend die Höchstbeträge in der Krankenpflegeversicherung für das Jahr 1993"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/2517_2517_2517"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 15 du DFI du 30 novembre 1992 sur l'assurance-maladie concernant les montants maximums dans l'assurance des soins médicaux et pharmaceutiques pour l'année 1993"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/2517_2517_2517"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 15 del DFI del 30 novembre 1992 sull'assicurazione contro le malattie concernente gli importi massimi dei premi nell'assicurazione per cure mediche e farmaceutiche nel 1993"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/425_429_423"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.190.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 3 des EDI vom 5. Mai 1965 über die Krankenversicherung betreffend die Geltendmachung der Bundesbeiträge an die Krankenpflege Invalider"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/425_429_423"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.190.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 3 du DFI du 5 mai 1965 sur l'assurance-maladie concernant l'exercice du droit aux subsides fédéraux pour soins médicaux et pharmaceutiques des invalides"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/425_429_423"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.190.2"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 3 del DFI del 5 maggio 1965 sull'assicurazione contro le malattie concernente l'esercizio del diritto ai sussidi federali per la cura medica e i medicamenti degli invalidi"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/997_1009_996"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.133"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 5 des EDI vom 12. November 1965 über die Krankenversicherung betreffend die Mindestbeiträge in der Kollektivversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/997_1009_996"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.133"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 5 du DFI du 12 novembre 1965 sur l'assurance-maladie fixant les cotisations minimales de l'assurance collective"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/997_1009_996"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.133"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 5 del DFI del 12 novembre 1965 sull'assicurazione contro le malattie che stabilisce le quote minime dell'assicurazione collettiva"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/2604_2604_2604"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesbeschluss vom 13. Dezember 1991 über befristete Massnahmen gegen die Kostensteigerung in der Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/2604_2604_2604"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Arrêté fédéral du 13 décembre 1991 sur des mesures temporaires contre le renchérissement de l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/2604_2604_2604"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Decreto federale del 13 dicembre 1991 concernente provvedimenti temporanei contro l'aumento dei costi nell'assicurazione contro le malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/2607_2607_2607"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesbeschluss vom 13. Dezember 1991 über befristete Massnahmen gegen die Entsolidarisierung in der Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/2607_2607_2607"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Arrêté fédéral du 13 décembre 1991 sur des mesures temporaires contre la désolidarisation dans l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/2607_2607_2607"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.112"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Decreto federale del 13 dicembre 1991 concernente provvedimenti temporanei contro la desolidarizzazione nell'assicurazione contro la malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/55_59_60"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung IV vom 15. Januar 1965 über die Krankenversicherung betreffend die Anerkennung kantonaler Befähigungsausweise der Chiropraktoren für die Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/55_59_60"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance IV du 15 janvier 1965 sur l'assurance-maladie concernant la reconnaissance pour l'assurance-maladie des certificats cantonaux de capacité délivrés aux chiropraticiens"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1965/55_59_60"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.4"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza IV del 15 gennaio 1965 sull'assicurazione contro le malattie concernente il riconoscimento, per la medesima, dei certificati cantonali d'idoneità rilasciati ai chiropratici"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/337"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102.5"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung vom 20. Juni 2014 über die Festlegung und die Anpassung von Tarifstrukturen in der Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/337"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102.5"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 20 juin 2014 sur la fixation et l'adaptation de structures tarifaires dans l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/337"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.102.5"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 20 giugno 2014 sulla definizione e l'adeguamento delle strutture tariffali nell'assicurazione malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1967/1261_1300_1294"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.13"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 9 des EDI vom 19. September 1967 über die Krankenversicherung betreffend von den anerkannten Krankenkassen zu übernehmenden Behandlungen bei Herzoperationen und Dialysen"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1967/1261_1300_1294"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.13"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 9 du DFI du 19 septembre 1967 sur l'assurance-maladie concernant les traitements à la charge des caisses-maladie reconnues en cas d'opération du coeur ou de dialyse"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1967/1261_1300_1294"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.141.13"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 9 del DFI del 19 settembre 1967 sull'assicurazione contro le malattie concernente i trattamenti in caso di operazioni al cuore o di dialisi a carico delle casse malati riconosciute"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1838_1838_1838"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesbeschluss vom 9. Oktober 1992 über befristete Massnahmen gegen die Kostensteigerung in der Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1838_1838_1838"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Arrêté fédéral du 9 octobre 1992 sur des mesures temporaires contre le renchérissement de l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1992/1838_1838_1838"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.111"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Decreto federale del 9 ottobre 1992 concernente provvedimenti temporanei contro l'aumento dei costi nell'assicurazione malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1966/570_590_586"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung VII vom 29. März 1966 über die Krankenversicherung betreffend die Zulassung von Laboratorien zur Betätigung für die Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1966/570_590_586"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance VII du 29 mars 1966 sur l'assurance-maladie concernant l'autorisation donnée aux laboratoires d'exercer leur activité à la charge de l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1966/570_590_586"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.156.6"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza VII del 29 marzo 1966 sull'assicurazione contro le malattie concernente l'autorizzazione data ai laboratori di eseguire analisi a carico dell'assicurazione contro le malattie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/1424_1424_1424"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verordnung 14 des EDI vom 14. Juni 1991 über die Krankenversicherung betreffend die begleitende wissenschaftliche Untersuchung der besonderen Versicherungsformen"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/1424_1424_1424"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance 14 du DFI du 14 juin 1991 sur l'assurance-maladie concernant l'étude scientifique liée à la pratique des formes particulières d'assurance"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1991/1424_1424_1424"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.121.3"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza 14 del DFI del 14 giugno 1991 sull'assicurazione contro le malattie concernente l'analisi scientifica connessa con l'esercizio delle forme particolari d'assicurazione"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/254"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.14"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 21. Juni 2002 über die Anpassung der kantonalen Beiträge für die innerkantonalen stationären Behandlungen nach dem Bundesgesetz über die Krankenversicherung"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/254"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.14"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 21 juin 2002 sur l'adaptation des participations cantonales aux coûts des traitements hospitaliers dispensés dans le canton selon la loi fédérale sur l'assurance-maladie"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2002/254"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.14"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 21 giugno 2002 sull'adeguamento dei contributi cantonali per le cure stazionarie all'interno dei Cantoni in base alla legge federale sull'assicurazione malattie"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

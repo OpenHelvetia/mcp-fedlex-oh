@@ -1,0 +1,1630 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "ca",
+      "lang",
+      "title",
+      "short",
+      "status",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2013/1599_cc"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz über die Krankenversicherung (Entwurf)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "ca": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
+        },
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

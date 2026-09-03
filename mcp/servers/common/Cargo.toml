@@ -1,0 +1,14 @@
+[package]
+name = "oh-mcp-common"
+version = "0.1.0"
+edition = "2021"
+description = "What two domain MCP servers of this platform share: the polite brake and the semantic fixture store"
+
+[lib]
+name = "oh_mcp_common"
+path = "src/lib.rs"
+
+[dependencies]
+anyhow = "1"
+sha2 = "=0.11.0"
+time = { version = "0.3", features = ["formatting"] }

@@ -1,0 +1,99 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "abstract",
+      "status",
+      "statusLabel",
+      "entryInForce",
+      "noLonger",
+      "endApp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "abstract": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "En vigueur",
+          "xml:lang": "fr"
+        }
+      },
+      {
+        "abstract": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In force",
+          "xml:lang": "en"
+        }
+      },
+      {
+        "abstract": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In Kraft",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "abstract": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
+        },
+        "entryInForce": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1987-04-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/0"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "In vigore",
+          "xml:lang": "it"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "cons",
+      "status",
+      "title",
+      "start",
+      "end",
+      "inst"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "cons": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2017-04-04"
+        },
+        "inst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-institution/S0"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2016-12-21"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/consultation-status/5"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Vorentwurf für das Bundesgesetz über die Totalrevision des Datenschutzgesetzes und die Änderung weiterer Erlasse zum Datenschutz",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "cons": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1"
+        },
+        "inst": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-institution/S0"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/consultation-status/5"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Vorentwurf für das Bundesgesetz über die Totalrevision des Datenschutzgesetzes und die Änderung weiterer Erlasse zum Datenschutz",
+          "xml:lang": "de"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

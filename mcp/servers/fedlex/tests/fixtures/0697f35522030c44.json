@@ -1,0 +1,14 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "date",
+      "url"
+    ]
+  },
+  "results": {
+    "bindings": [],
+    "distinct": false,
+    "ordered": true
+  }
+}

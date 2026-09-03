@@ -1,0 +1,212 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "x"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2021/79/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2023/21/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2022/64/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2022/51/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6015/118/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6015/74/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6017/60/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6017/63/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6017/71/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6020/45/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2023/74/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2023/104/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6008/113/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6009/20/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6011/26/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6012/100/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6012/101/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6014/101/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6014/53/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6014/88/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6015/14/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6018/33/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6018/62/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6018/81/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6019/64/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6019/79/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6020/32/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2024/76/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2022/99/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2024/84/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2024/96/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2026/56/cons_1"
+        }
+      },
+      {
+        "x": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/2025/103/cons_1"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

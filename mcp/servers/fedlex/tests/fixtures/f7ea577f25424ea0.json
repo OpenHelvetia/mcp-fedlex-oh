@@ -1,0 +1,19 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "status",
+      "statusLabel",
+      "entry",
+      "noLonger",
+      "endApp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {}
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

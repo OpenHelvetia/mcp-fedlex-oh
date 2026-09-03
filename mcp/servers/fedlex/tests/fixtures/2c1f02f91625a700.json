@@ -1,0 +1,16 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "fga",
+      "genre",
+      "genreLabel",
+      "pub"
+    ]
+  },
+  "results": {
+    "bindings": [],
+    "distinct": false,
+    "ordered": true
+  }
+}

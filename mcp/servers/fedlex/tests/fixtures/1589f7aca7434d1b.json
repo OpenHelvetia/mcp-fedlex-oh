@@ -1,0 +1,17 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "tax",
+      "node",
+      "notation",
+      "label",
+      "parent"
+    ]
+  },
+  "results": {
+    "bindings": [],
+    "distinct": false,
+    "ordered": true
+  }
+}

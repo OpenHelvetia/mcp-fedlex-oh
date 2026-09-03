@@ -1,0 +1,61 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "concept",
+      "label",
+      "lang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-it/28796"
+        },
+        "label": {
+          "type": "literal",
+          "value": "riaccettazione al confine",
+          "xml:lang": "it"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-it/35147"
+        },
+        "label": {
+          "type": "literal",
+          "value": "e riaccettazione di cittadini soggiacenti all'obbligo di partenza",
+          "xml:lang": "it"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-it/35148"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Riaccettazione",
+          "xml:lang": "it"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "it"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

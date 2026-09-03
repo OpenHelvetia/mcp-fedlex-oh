@@ -1,0 +1,81 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "c",
+      "applic"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "applic": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2006-07-01"
+        },
+        "c": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20060701"
+        }
+      },
+      {
+        "applic": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2007-01-01"
+        },
+        "c": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20070101"
+        }
+      },
+      {
+        "applic": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2009-01-01"
+        },
+        "c": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20090101"
+        }
+      },
+      {
+        "applic": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2014-08-19"
+        },
+        "c": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20140819"
+        }
+      },
+      {
+        "applic": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-09-01"
+        },
+        "c": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20230901"
+        }
+      },
+      {
+        "applic": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-11-01"
+        },
+        "c": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20231101"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

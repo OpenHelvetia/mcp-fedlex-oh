@@ -1,0 +1,205 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "s",
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20070101"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20090101"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20230901"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20140819"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20060701"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#isMemberOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/20231101"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#foreseenImpactToLegalResource"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/dl/proj/6000/06/cons_1"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_11"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_12"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_13"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_15"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_18"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_20"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_3"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_9"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/expr_"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/text"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_17"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://data.legilux.public.lu/resource/ontology/jolux#legalResourceSubdivisionIsPartOf"
+        },
+        "s": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_23a"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

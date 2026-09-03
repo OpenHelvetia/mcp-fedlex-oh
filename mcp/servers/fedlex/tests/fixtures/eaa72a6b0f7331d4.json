@@ -1,0 +1,47 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "oc",
+      "pub",
+      "genre",
+      "genreLabel",
+      "resp",
+      "memorial"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "genre": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-resource-genre/100"
+        },
+        "genreLabel": {
+          "type": "literal",
+          "value": "Grunderlass",
+          "xml:lang": "de"
+        },
+        "memorial": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/collection/oc/2006/24"
+        },
+        "oc": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2006/355"
+        },
+        "pub": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2006-06-20"
+        },
+        "resp": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-institution/5"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

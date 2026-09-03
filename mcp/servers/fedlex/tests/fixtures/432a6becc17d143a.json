@@ -1,0 +1,74 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "short",
+      "title",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "KVG"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LAMal"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "status",
+      "statusLabel",
+      "entry",
+      "noLonger",
+      "endApp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "entry": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1999-01-01"
+        },
+        "noLonger": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-01-01"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/enforcement-status/3"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Nicht mehr in Kraft",
+          "xml:lang": "de"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "url"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ROH"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

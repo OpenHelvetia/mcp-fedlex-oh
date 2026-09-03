@@ -1,0 +1,93 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "lang",
+      "short",
+      "title",
+      "sr"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/DEU"
+        },
+        "short": {
+          "type": "literal",
+          "value": "LSV"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "814.41"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ENG"
+        },
+        "short": {
+          "type": "literal",
+          "value": "NAO"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "814.41"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Noise Abatement Ordinance of 15 December 1986 (NAO)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/FRA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OPB"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "814.41"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)"
+        }
+      },
+      {
+        "lang": {
+          "type": "uri",
+          "value": "http://publications.europa.eu/resource/authority/language/ITA"
+        },
+        "short": {
+          "type": "literal",
+          "value": "OIF"
+        },
+        "sr": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "814.41"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

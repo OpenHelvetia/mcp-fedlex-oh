@@ -1,0 +1,26 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "label",
+      "lang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Code",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

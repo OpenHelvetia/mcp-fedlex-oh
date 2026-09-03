@@ -1,0 +1,25 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "impact",
+      "src"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "impact": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/legal-analysis/LegalResourceImpact/1"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/lvl_I"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

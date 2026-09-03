@@ -1,0 +1,110 @@
+# <file> <key> <recorded>. The date is the day the recording pass wrote the file; a «~» marks a date
+# derived from the git history (the commit that added the fixture) rather than written at recording
+# time — from BV A′ on the recorder writes it itself. Lines beginning with # are notes.
+# Eight lines were SET BY HAND at BV A″ (the vocabulary_labels:*, the two Riaccettazione/Code
+# searches and the two English BGÖ manifestation keys): the recorder wrote them before it
+# dated its lines, and 2026-08-29 UTC is the day this session recorded them — taken from the
+# commit, not from the recorder and not from the git history.
+6e01faeb23575d73.json resolve_sr:candidates:832.10 ~2026-08-20
+54946d50c8e1e104.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328 ~2026-08-20
+934681734c446e79.json resolve_sr:candidates:999.99 ~2026-08-20
+c77f91ec59f5f201.json search_law:krankenversicherung:5 ~2026-08-20
+34c692546c1d5904.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/1900/000_000_000 ~2026-08-20
+76d718fe22fb9481.json list_versions:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328 ~2026-08-20
+3a9edf854a8be915.json get_citations:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328:in ~2026-08-20
+1d50193d5b6bb16c.json get_citations:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328:out ~2026-08-20
+917b3ee4a2e918a8.json list_versions:https://fedlex.data.admin.ch/eli/cc/2006/355 ~2026-08-21
+5adfd70a311cc955.json manifestation:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:de ~2026-08-29
+87f4f8cf5954915e.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:de ~2026-08-29
+c1645943941d794a.json get_subdivisions:https://fedlex.data.admin.ch/eli/cc/2006/355 ~2026-08-29
+f85842c2c9f7d62e.json get_article_history:https://fedlex.data.admin.ch/eli/cc/2006/355:art_2 ~2026-08-29
+7882711adfd39c7e.json get_taxonomy:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328 ~2026-08-29
+4364733565ee6d00.json get_taxonomy:https://fedlex.data.admin.ch/eli/cc/2006/355 ~2026-08-29
+11817dfe93a7bcc9.json list_expressions:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101 ~2026-08-29
+4e74801abbf40e66.json list_expressions:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/19960101 ~2026-08-29
+d7419931800e12cd.json resolve_vocabulary_label:enforcement-status:kraft:de ~2026-08-29
+1dafa226db70bee3.json find_related_topic:https://fedlex.data.admin.ch/eli/cc/2006/355:10 ~2026-08-29
+7c92e61531929052.json manifestation:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260701:de ~2026-08-29
+eab43cc254984dd0.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260701:de ~2026-08-29
+94cd16816a44599b.json resolve_sr:candidates:814.41 ~2026-08-29
+ca56467afb7a5f11.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/1987/338_338_338 ~2026-08-29
+9615530e78290411.json list_versions:https://fedlex.data.admin.ch/eli/cc/1987/338_338_338 ~2026-08-29
+c1306ce8e661b940.json manifestation:https://fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401:de ~2026-08-29
+96c4e6e461995083.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401:de ~2026-08-29
+2f175656cea97ffb.json get_article_history:https://fedlex.data.admin.ch/eli/cc/2006/355:art_17 ~2026-08-29
+92350d6c39ba946b.json get_article_history:https://fedlex.data.admin.ch/eli/cc/2006/355:art_17:sources ~2026-08-29
+36ac1b420362b7a0.json get_subdivisions:https://fedlex.data.admin.ch/eli/cc/1900/000_000_000 ~2026-08-29
+1589f7aca7434d1b.json get_taxonomy:https://fedlex.data.admin.ch/eli/cc/1900/000_000_000 ~2026-08-29
+0697f35522030c44.json manifestation:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/19960101:de ~2026-08-29
+ff293fb75cba0a43.json search_law:abbreviation:StPO ~2026-08-29
+6044bccd0c08b8e3.json search_law:StPO:10 ~2026-08-29
+c1bbbdf37cdb2b17.json search_law:abbreviation:OR ~2026-08-29
+58d6939201c41a9a.json search_law:OR:10 ~2026-08-29
+30266920b78eaeaa.json search_law:abbreviation:datenschutz ~2026-08-29
+c0ccdd2129da1557.json search_law:datenschutz:5 ~2026-08-29
+73be0f107d059bc6.json search_law:Quantencomputergesetz:10 ~2026-08-29
+47c7d475bde2e197.json resolve_sr:candidates:0.101 ~2026-08-29
+d680685374d6a345.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151 ~2026-08-29
+7b2ea6d643eac4a1.json list_versions:https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151 ~2026-08-29
+548f75d31f865755.json list_expressions:https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916 ~2026-08-29
+0846332799e63781.json manifestation:https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916:de ~2026-08-29
+f9dcfebe7d8e4398.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20220916:de ~2026-08-29
+f5cdf269a99d1dc3.json manifestation:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:fr ~2026-08-29
+eb5d9ae2c67d67ce.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:fr ~2026-08-29
+# replaced keys (BO′, re-recorded 2026-08-29 — same key, same file, new query): c77f91ec59f5f201.json search_law:krankenversicherung:5 (v0 window: five repealed ordinances of 1965–1987; now the ranked window, KVG first)
+ebb6530f2ff60ecf.json search_law:abbreviation:USG ~2026-08-29
+8dccff834cc213b6.json search_law:abbreviation:LSV ~2026-08-29
+07757468cd7515d9.json search_law:abbreviation:BGÖ ~2026-08-29
+a0cff1a211a947b6.json search_law:abbreviation:DSG ~2026-08-29
+38d2321c7f6c61f5.json search_law:abbreviation:KVG ~2026-08-29
+d70d2b1041df566b.json search_law:abbreviation:XYZ ~2026-08-29
+55a410eab858f5ab.json search_law:abbreviation:EMRK ~2026-08-29
+449d3095cc7f787b.json search_law:abbreviation:BV ~2026-08-29
+073c6c382783a8ea.json manifestation:https://fedlex.data.admin.ch/eli/cc/2006/355/20230901:de ~2026-08-29
+0bc86028be230da4.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/2006/355/20230901:de ~2026-08-29
+792e0384909fd2a2.json get_citations:https://fedlex.data.admin.ch/eli/cc/2006/355:cites ~2026-08-29
+322ed0885a8a05f1.json get_citations:https://fedlex.data.admin.ch/eli/cc/2006/355:cites:q2 ~2026-08-29
+6c7c0fc45149c09c.json get_citations:https://fedlex.data.admin.ch/eli/cc/2006/355:cited_by ~2026-08-29
+13919ce9b61c7ca4.json explore_node:https://fedlex.data.admin.ch/eli/cc/2006/355:20 ~2026-08-29
+4d5a1295d52871db.json explore_node:https://fedlex.data.admin.ch/eli/cc/2006/355:20:q2 ~2026-08-29
+5b756c38ea63e17f.json find_treaties:Menschenrechte:-:-:10 ~2026-08-29
+22b59bd06b5de9ba.json get_treaty_info:https://fedlex.data.admin.ch/eli/treaty/2025/0153:de ~2026-08-29
+1da645e50d399384.json get_drafts:https://fedlex.data.admin.ch/eli/cc/2022/491 ~2026-08-29
+b112e535384dfc3c.json get_consultations:https://fedlex.data.admin.ch/eli/dl/proj/8022/0491 ~2026-08-29
+2c1f02f91625a700.json get_fga_documents:https://fedlex.data.admin.ch/eli/cc/2022/491 ~2026-08-29
+cbc7fd8a54c726a9.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/2022/491 ~2026-08-29
+eaa72a6b0f7331d4.json get_oc_act:https://fedlex.data.admin.ch/eli/cc/2006/355 ~2026-08-29
+203f161f0b4598bf.json get_memorial:https://fedlex.data.admin.ch/eli/oc/2006/355:20 ~2026-08-29
+85069be8cf0f878b.json get_oc_act:https://fedlex.data.admin.ch/eli/cc/1900/000_000_000 ~2026-08-29
+2d8223b361dcaf62.json get_drafts:https://fedlex.data.admin.ch/eli/cc/2017/762 ~2026-08-29
+02b3fa87189de9da.json get_consultations:https://fedlex.data.admin.ch/eli/proj/2012/1295 ~2026-08-29
+329ee9434839d5b6.json get_fga_documents:https://fedlex.data.admin.ch/eli/cc/2017/762 ~2026-08-29
+b733f234bf99084c.json get_consultation_documents:https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1 ~2026-08-29
+c86fa6d01a36891e.json get_consultation_documents:https://fedlex.data.admin.ch/eli/dl/proj/6016/61/cons_1:tasks ~2026-08-29
+0c4bd4d967d75d1c.json cite:https://fedlex.data.admin.ch/eli/cc/2006/355 ~2026-08-29
+417d2a29fbe39be2.json cite:https://fedlex.data.admin.ch/eli/cc/1987/338_338_338 ~2026-08-29
+432a6becc17d143a.json cite:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328 ~2026-08-29
+96f3411ff75911e2.json manifestation:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:it ~2026-08-29
+a3d227ea4434d8d0.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:it ~2026-08-29
+64649ffb5a88190e.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/1999/27 ~2026-08-29
+470923eeec5556b4.json get_law_metadata:https://fedlex.data.admin.ch/eli/cc/2020/2930_cc ~2026-08-29
+40b82fe998089372.json check_in_force:https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328 ~2026-08-29
+e929c58709ab9dc7.json check_in_force:https://fedlex.data.admin.ch/eli/cc/1999/27 ~2026-08-29
+27e066189090cd2d.json list_versions:https://fedlex.data.admin.ch/eli/cc/1999/27 ~2026-08-29
+6d1e0b642eede457.json check_in_force:https://fedlex.data.admin.ch/eli/cc/2020/2930_cc ~2026-08-29
+96dec8f56078f2e8.json list_versions:https://fedlex.data.admin.ch/eli/cc/2020/2930_cc ~2026-08-29
+82767ac1934c3189.json list_versions:https://fedlex.data.admin.ch/eli/cc/1900/000_000_000 ~2026-08-29
+f7ea577f25424ea0.json check_in_force:https://fedlex.data.admin.ch/eli/cc/1900/000_000_000 ~2026-08-29
+6862223494fd4579.json vocabulary_labels:https://fedlex.data.admin.ch/vocabulary/enforcement-status/0 2026-08-29
+101cc7e5b32c1763.json vocabulary_labels:https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/22158 2026-08-29
+ad0ed552dae4bf3b.json resolve_vocabulary_label:legal-subject-theme-fr:Code:de 2026-08-29
+478a683f93caa5e4.json manifestation:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:en 2026-08-29
+f4b106abb18a46b8.xml manifestation:xml:https://fedlex.data.admin.ch/eli/cc/2006/355/20231101:en 2026-08-29
+a950488edd4e5836.json resolve_vocabulary_label:legal-subject-theme-it:Riaccettazione:de 2026-08-29
+95c4006b6582cb6d.json vocabulary_labels:missing:legal-subject-theme-fr:Code:de 2026-08-29
+fbf482544f00b90d.json vocabulary_labels:missing:legal-subject-theme-it:Riaccettazione:de 2026-08-29
+dd1e73141d0548a1.json search_law:abbreviation:Landes 2026-08-29
+ddeb7a7a8c0be3e8.json search_law:abbreviation:Wahlrechts 2026-08-29
+ebe87eadbe957622.json search_law:abbreviation:NFA 2026-08-29
+5a533ad78e785e4a.json search_law:Bundesgesetz über die politischen Rechte:10 2026-08-30
+162a4c3c3009b5c7.json search_law:politische Rechte:10 2026-08-30

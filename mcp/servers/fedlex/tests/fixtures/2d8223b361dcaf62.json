@@ -1,0 +1,71 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "draft",
+      "draftId",
+      "parlId",
+      "result"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "draft": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/proj/2012/1295"
+        },
+        "draftId": {
+          "type": "literal",
+          "value": "20121295"
+        },
+        "parlId": {
+          "type": "literal",
+          "value": "13.074"
+        },
+        "result": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2013/1477"
+        }
+      },
+      {
+        "draft": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/proj/2012/1295"
+        },
+        "draftId": {
+          "type": "literal",
+          "value": "20121295"
+        },
+        "parlId": {
+          "type": "literal",
+          "value": "13.074"
+        },
+        "result": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2016/1642"
+        }
+      },
+      {
+        "draft": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/proj/2012/1295"
+        },
+        "draftId": {
+          "type": "literal",
+          "value": "20121295"
+        },
+        "parlId": {
+          "type": "literal",
+          "value": "13.074"
+        },
+        "result": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2017/762"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

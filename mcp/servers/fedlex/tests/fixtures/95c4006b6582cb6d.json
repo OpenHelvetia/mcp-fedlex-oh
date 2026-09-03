@@ -1,0 +1,196 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "concept",
+      "label",
+      "lang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61812"
+        },
+        "label": {
+          "type": "literal",
+          "value": "du Code de conduite international des entreprises de sécurité privées, privilèges et immunités en Suisse",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/22158"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Code",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/27399"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Code",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/30065"
+        },
+        "label": {
+          "type": "literal",
+          "value": "code pénal -",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/40114"
+        },
+        "label": {
+          "type": "literal",
+          "value": "code communautaire (code des visas)",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/41073"
+        },
+        "label": {
+          "type": "literal",
+          "value": "code frontières Schengen",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/41121"
+        },
+        "label": {
+          "type": "literal",
+          "value": "code de procédure civile et code de procédure pénale",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61333"
+        },
+        "label": {
+          "type": "literal",
+          "value": "capitaux, Code",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61334"
+        },
+        "label": {
+          "type": "literal",
+          "value": "libération des mouvements de -, Code",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61335"
+        },
+        "label": {
+          "type": "literal",
+          "value": "invisibles courantes, Code",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61813"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Association du Code de conduite international des entreprises de sécurité privées",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "concept": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-subject-theme-fr/61814"
+        },
+        "label": {
+          "type": "literal",
+          "value": "Association du Code de conduite international des entreprises de sécurité privées",
+          "xml:lang": "fr"
+        },
+        "lang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "fga",
+      "genre",
+      "genreLabel",
+      "pub"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "fga": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2013/1477"
+        },
+        "genre": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-resource-genre/100"
+        },
+        "genreLabel": {
+          "type": "literal",
+          "value": "Grunderlass",
+          "xml:lang": "de"
+        },
+        "pub": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2013-10-15"
+        }
+      },
+      {
+        "fga": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/fga/2016/1642"
+        },
+        "genre": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-resource-genre/100"
+        },
+        "genreLabel": {
+          "type": "literal",
+          "value": "Grunderlass",
+          "xml:lang": "de"
+        },
+        "pub": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2016-10-11"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

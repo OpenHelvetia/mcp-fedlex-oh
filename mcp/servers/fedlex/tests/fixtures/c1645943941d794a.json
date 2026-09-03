@@ -1,0 +1,135 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "sub",
+      "type"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_11"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_12"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_13"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_15"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_18"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_20"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_3"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_9"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/expr_"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/expr"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/text"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/text"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_17"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      },
+      {
+        "sub": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/355/art_23a"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/subdivision-type/art"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

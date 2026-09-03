@@ -1,0 +1,93 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "impact",
+      "type",
+      "typeLabel",
+      "date",
+      "comment"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "comment": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "fr"
+        },
+        "date": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-11-01"
+        },
+        "impact": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/legal-analysis/LegalResourceImpact/1"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/impact-type/1"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Änderung",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "comment": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "de"
+        },
+        "date": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-11-01"
+        },
+        "impact": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/legal-analysis/LegalResourceImpact/1"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/impact-type/1"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Änderung",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "comment": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "it"
+        },
+        "date": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-11-01"
+        },
+        "impact": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/oc/2023/584/legal-analysis/LegalResourceImpact/1"
+        },
+        "type": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/impact-type/1"
+        },
+        "typeLabel": {
+          "type": "literal",
+          "value": "Änderung",
+          "xml:lang": "de"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

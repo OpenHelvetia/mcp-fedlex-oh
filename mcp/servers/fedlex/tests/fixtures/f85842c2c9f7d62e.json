@@ -1,0 +1,17 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "impact",
+      "type",
+      "typeLabel",
+      "date",
+      "comment"
+    ]
+  },
+  "results": {
+    "bindings": [],
+    "distinct": false,
+    "ordered": true
+  }
+}

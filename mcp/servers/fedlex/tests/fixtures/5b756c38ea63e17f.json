@@ -1,0 +1,787 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "process",
+      "title",
+      "lang",
+      "sigDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2025/0153"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2025-03-17"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Änderung der Verfahrensordnung Art. 46, Art. 51, Art. 58, Art. 117- 17.03.2025 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2024/0071"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-12-15"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Änderung der Verfahrensordnung Art. 28,  Art. 47, Art. 117 - 15.12.2023 und 18.01.2024  - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2023/0487"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-06-23"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Änderung der Verfahrensordnung Art. 7, 7a, 33 Abs. 1,  44f - 23.06.2023 und 25.09.2023 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2023/0104"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2023-03-03"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Änderung der Verfahrensordnung Art. 8, 44, 117 - 03.03.2023 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2022/0108"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2022-02-07"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Änderung der Verfahrensordnung Art. 36, 44d, 117 - 07.02.2022 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2022/0086"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2021-06-02"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Änderung der Verfahrensordnung Art. 8, 24, 93, 94, 101, 117 - 02.06.2021 und 18.10.2021 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2021/0213"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2021-02-05"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Abkommen zwischen der Schweiz und dem Büro des UNO-Hochkommissars für Menschenrechte (OHCHR) in Genf, bezüglich eines finanziellen Beitrags für den Treuhandfonds für die technische Unterstützung zur Förderung der Teilnahme der am wenigsten entwickelten Länder und der kleinen Inselentwicklungsländer an den Arbeiten des Menschenrechtsrats für den Zeitraum 2021-2023",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672008"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2019-11-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Modification du Règlement: Art. 33, 52a, 53, 54, 56, 57, 76,78, 88, 94, 104a, 104b, 117 - 04-11-2019 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1999/55782004"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2019-11-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Modification du Règlement: Art. 33, 52a, 53, 54, 56, 57, 76,78, 88, 94, 104a, 104b, 117 - 04-11-2019 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1999/55782003"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2019-09-09"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Modification du Règlement: Art. 27a und 52a  - 09-09-2019 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672007"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2019-09-09"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Modification du Règlement: Art. 27a und 52a  - 09-09-2019 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1999/55782002"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2019-06-03"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Modification de l'Art. 29 du Règlement\r\n\r\n - 03-06-2019 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672006"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2019-06-03"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Modification de l'Art. 29 du Règlement de la Cour européenne des droits de l'homme\r\n\r\n - 03-06-2019 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/5725"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2018-12-06"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Abkommen zwischen der Regierung der Schweiz, vertreten durch das Eidgenössische Departement für auswärtige Angelegenheiten, handelnd durch die Abteilung Vereinte Nationen und internationale Organisationen (AIO) und das Amt des Hohen Kommissars der Vereinten Nationen für Menschenrechte (OHCHR) betreffend einen Beitrag zur Finanzierung der Aktivitäten des Tags der Menschenrechte anlässlich der Feier des 70. Jahrestags der Allgemeinen Erklärung Menschenrechte ",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/5476"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2017-03-20"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Abkommen zwischen der Schweiz und dem Hochkommissariat für Menschenrechte der Vereinten Nationen bezüglich eines Beitrags an den Internationalen, unparteiischen und unabhängigen Mechanismus zur Unterstützung der Ermittlungen gegen die Verantwortlichen für die seit März 2011 in Syrien begangenen schwersten völkerrechtlichen Verbrechen und ihrer strafrechtlichen Verfolgung",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/4380"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2013-06-24"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 15 über die Änderung der Konvention zum Schutze der Menschenrechte und Grundfreiheiten",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672004"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2009-11-16"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Règlement de la Cour européenne des Droits de l'homme - incluant les amendements adoptés par la Cour le 29 juin et le 16 novembre 2009. \r\n - 16-11-2009 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672005"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2009-11-16"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Règlement de la Cour européenne des Droits de l'homme - 16-11-2009 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1999/55782001"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2009-11-16"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Version consolidée du 1.12.2009. Cette nouvelle version inclut les Am. adoptés par la Cour le 8.12.2000, les 17.6. et 8.7.2002, le 7.7. 2003, le 12.12.2004, les 4.7. et 7.11. 2005, le 29.52006, les 14.5. et 11.12.2007, les 22.9. et 1.12.2008, les 29.6. et 16.11.2009 - 16-11-2009 - Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2004/2727"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2004-05-13"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 14 vom 13. Mai 2004 zur Konvention zum Schutz der Menschenrechte und Grundfreiheiten über die Änderung des Kontrollsystems der Konvention",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2003/0623"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2002-05-03"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 13 vom 3. Mai 2002 zur Konvention zum Schutz der Menschenrechte und Grundfreiheiten über die vollständige Abschaffung der Todesstrafe",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2008/1739"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "2002-01-24"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Zusatzprotokoll vom 24. Januar 2002 über die Transplantation menschlicher Organe und Gewebe zum Übereinkommen über Menschenrechte und Biomedizin",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672002"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-11-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Règlement de la Cour européenne des Droits de l'homme - nouvelle version révisée incluant les amendements adoptés par la Cour le 8.12.2000, le 17.6. et 8.7.2002, le 7.7.2003, le 13.12.2004, le 4.7. et le 7.11.2005.  - 04-11-1998 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1999/5578"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-11-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Verfahrensordnung des Europäischen Gerichtshofs für Menschenrechte vom 4. November 1998",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02672003"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-11-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Règlement de la Cour européenne des Droits de l'homme - incluant les amendements adoptés par la Cour le 29.5.2006, 14.5.2007, 1.7.2007, 11.12.2007, 22.09.2008 et 1.12.2008.\r\n - 04-11-1998 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2001/1535"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1998-01-12"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Zusatzprotokoll vom 12. Januar 1998 zum Übereinkommen zum Schutz der Menschenrechte und der Menschenwürde im Hinblick auf die Anwendung von Biologie und Medizin über das Verbot des Klonens von menschlichen Lebewesen (Zusatzprotokoll über das Verbot des Klonens menschlicher Lebewesen)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2001/1534"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1997-04-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Übereinkommen vom 4. April 1997 zum Schutz der Menschenrechte und der Menschenwürde im Hinblick auf die Anwendung von Biologie und Medizin (Übereinkommen über Menschenrechte und Biomedizin)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/2000/0251"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1996-03-05"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Europäisches Übereinkommen vom 5. März 1996 über Personen, welche an Verfahren vor dem europäischen Gerichtshof für Menschenrechte teilnehmen",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1998/3313"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1994-05-11"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 11 vom 11. Mai 1994 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten über die Umgestaltung des durch die Konvention eingeführten Kontrollmechanismus",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/1723"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1992-03-25"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 10 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/2455"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1985-03-19"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 8 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1984/0284"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1984-11-22"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 7 vom 22. November 1984 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1983/0104"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1983-04-28"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 6 vom 28. April 1983 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten über die Abschaffung der Todesstrafe",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/2454"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1980-11-06"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protokoll Nr. 9 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1969/0093"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1969-05-06"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Europäisches Übereinkommen vom 6. Mai 1969 über die an den Verfahren vor der Europäischen Kommission und dem Europäischen Gerichtshof für Menschenrechte teilnehmenden Personen",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/9999/1548"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1952-03-20"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Zusatzprotokoll zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/0267"
+        },
+        "sigDate": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "typed-literal",
+          "value": "1950-11-04"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1950/02671001"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Protocole No 2  - 06-05-1963 - Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK)",
+          "xml:lang": "de"
+        }
+      },
+      {
+        "lang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "process": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/treaty/1998/33131001"
+        },
+        "title": {
+          "type": "literal",
+          "value": "Intitulés des articles à insérer dans le texte de la Convention et de ses protocoles - 11-05-1994 - Protokoll Nr. 11 vom 11. Mai 1994 zur Konvention zum Schutze der Menschenrechte und Grundfreiheiten über die Umgestaltung des durch die Konvention eingeführten Kontrollmechanismus",
+          "xml:lang": "de"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

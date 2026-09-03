@@ -1,0 +1,454 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "tax",
+      "node",
+      "notation",
+      "label",
+      "parent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assurance-maladie",
+          "xml:lang": "fr"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10132"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.1"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10128"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assicurazione contro le malattie",
+          "xml:lang": "it"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10132"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.1"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10128"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Krankenversicherung",
+          "xml:lang": "de"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10132"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.1"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10128"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assicurazione sociale",
+          "xml:lang": "it"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "83"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Social insurance",
+          "xml:lang": "en"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "83"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assicuranza sociala",
+          "xml:lang": "rm"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "83"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sozialversicherung",
+          "xml:lang": "de"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "83"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assurance sociale",
+          "xml:lang": "fr"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "83"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)",
+          "xml:lang": "de"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10132"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)",
+          "xml:lang": "it"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10132"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)",
+          "xml:lang": "fr"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832.10"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10132"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Gesundheit - Arbeit - Soziale Sicherheit",
+          "xml:lang": "de"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "8"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sanità - Lavoro - Sicurezza sociale",
+          "xml:lang": "it"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "8"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Santé - Travail - Sécurité sociale",
+          "xml:lang": "fr"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "8"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Health - Employment - Social security",
+          "xml:lang": "en"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "8"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sanadad - Lavur - Segirezza sociala",
+          "xml:lang": "rm"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "8"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assurance en cas de maladie et d'accidents",
+          "xml:lang": "fr"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10128"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Assicurazione contro le malattie e gli infortuni",
+          "xml:lang": "it"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10128"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Kranken- und Unfallversicherung",
+          "xml:lang": "de"
+        },
+        "node": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10128"
+        },
+        "notation": {
+          "datatype": "https://fedlex.data.admin.ch/vocabulary/notation-type/id-systematique",
+          "type": "typed-literal",
+          "value": "832"
+        },
+        "parent": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9991"
+        },
+        "tax": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

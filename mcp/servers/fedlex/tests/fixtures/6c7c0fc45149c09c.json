@@ -1,0 +1,4665 @@
+{
+  "head": {
+    "link": [],
+    "vars": [
+      "src",
+      "desc"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15b Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1976/725_724_724/text/20200701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15b Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1976/725_724_724/text/20200701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 15b Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1976/725_724_724/text/20200701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Aufgaben des Sekretariats"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/178/text/20120101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Tâches du secrétariat"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/178/text/20120101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Compiti della segreteria"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/178/text/20120101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Gebührenbemessung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/322/text/20080601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Calcul des émoluments"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/322/text/20080601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Calcolo delle tasse"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/322/text/20080601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 31 Additional tasks"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 31 Weitere Aufgaben"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 31 Autres attributions"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 31 Altri compiti"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Disclosure of personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Bekanntgabe von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Comunicazione di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Communication de données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Blocco della comunicazione dei dati"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 25bis Procedure in the event of the disclosure of official documents containing personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 25bis Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 25bis Procedura in caso di comunicazione di documenti ufficiali che contengono dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 25bis Procédure en cas de communication de documents officiels contenant des données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Gebührenbemessung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2011/894/text/20120101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Calcul des émoluments"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2011/894/text/20120101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Calcolo delle tasse"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2011/894/text/20120101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Vorbehalte der Schweiz"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20140601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Réserves de la Suisse"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20140601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Riserve della Svizzera"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20140601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20210301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20210301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20210301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procedura in caso di comunicazione di documenti ufficiali che contengono dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procédure en cas de communication de documents officiels contenant des données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Weitere Aufgaben"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Altri compiti"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Autres tâches"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Bekanntgabe von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Comunicazione di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Communication de données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20140901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20140901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20140901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20140901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20140901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Grundsatz und Ausnahmen vom Geltungsbereich"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/533/text/20070101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principe et exceptions au champ d’application"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/533/text/20070101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principio ed eccezioni relativi al campo d’applicazione"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/533/text/20070101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Informationsaustausch und Datenbearbeitung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230316"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Échange d’informations et traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230316"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Scambio di informazioni e trattamento dei dati"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230316"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Compiti e competenze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Tâches et compétences"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Aufgaben und Zuständigkeiten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Wahrnehmung übergeordneter Aufgaben im Auftrag des BAV"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Assunzione di compiti preminenti su incarico dell’UFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Prise en charge de tâches d’ordre supérieur sur mandat de l’OFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Princip da transparenza per las infurmaziuns davart l’ambient"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Comunicazione di dati concernenti persone giuridiche"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Bekanntgabe von Daten juristischer Personen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Communication de données concernant des personnes morales"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Berichterstattung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20200701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapport"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20200701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapporto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20200701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Excepziun dal princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Ausnahme vom Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Deroga al principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception from the principle of freedom of information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception au principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Öffentlichkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20181126"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Publicité"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20181126"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Transparency"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20181126"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Pubblicità"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20181126"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Vertraulichkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/33/text/20070301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Confidentialité"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/33/text/20070301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Riservatezza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/33/text/20070301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Confidentiality"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/33/text/20070301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 8 Zugang zu amtlichen Dokumenten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/194/text/20161201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 8 Accès aux documents officiels"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/194/text/20161201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 8 Accesso a documenti ufficiali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/194/text/20161201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24 Aktenführung und Geheimhaltung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/814/text/20220601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24 Gestion et confidentialité des dossiers"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/814/text/20220601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24 Gestione degli atti e tutela del segreto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/814/text/20220601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Grundsatz und Geltungsbereich"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20221001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principe et champ d’application"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20221001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principio e campo d’applicazione"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20221001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2019/112/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Procédure en cas de communication de documents officiels contenant des données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2019/112/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Procedura in caso di comunicazione di documenti ufficiali che contengono dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2019/112/text/20190301"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Zugang zu amtlichen Dokumenten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20170901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accès aux documents officiels"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20170901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accesso a documenti ufficiali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20170901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Zugang zu amtlichen Dokumenten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accès aux documents officiels"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accesso a documenti ufficiali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20230701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20230701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Disclosure of personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procedure for disclosing official documents that contain personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Further tasks"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Processing personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Disclosure of personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procedure for disclosing official documents that contain personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Further tasks"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Publicité de l’administration de la justice"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20250901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Principio di pubblicità in relazione all’amministrazione della giustizia"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20250901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Öffentlichkeitsprinzip in Bezug auf die Justizverwaltung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20250901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 8 Accès aux documents officiels"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/194/text/20251001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 8 Accesso a documenti ufficiali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/194/text/20251001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 8 Zugang zu amtlichen Dokumenten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/194/text/20251001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20251201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Trattamento di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20251201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Bearbeitung von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20251201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22a Signalement, dénonciation et protection"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2001/123/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22a Segnalazioni, denunce e protezione"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2001/123/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22a Meldungen, Anzeigen und Schutz"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2001/123/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Tâches et compétences"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Prise en charge de tâches d’ordre supérieur sur mandat de l’OFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Compiti e competenze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Assunzione di compiti preminenti su incarico dell’UFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Aufgaben und Zuständigkeiten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Wahrnehmung übergeordneter Aufgaben im Auftrag des BAV"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Disclosing legal entities’ data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20250501"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20250515"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20250515"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20250515"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Communication de données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procédure en cas de communication de documents officiels contenant des données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Autres tâches"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Comunicazione di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procedura in caso di comunicazione di documenti ufficiali che contengono dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Altri compiti"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Bekanntgabe von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Weitere Aufgaben"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250707"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Tâches et compétences"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Prise en charge de tâches d’ordre supérieur sur mandat de l’OFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Compiti e competenze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Assunzione di compiti preminenti su incarico dell’UFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Aufgaben und Zuständigkeiten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Wahrnehmung übergeordneter Aufgaben im Auftrag des BAV"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Rapport"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2025/776/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Rapporto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2025/776/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Berichterstattung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2025/776/text/20260101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20260201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20260201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio della trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Compiti e competenze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Tâches et compétences"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Aufgaben und Zuständigkeiten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Wahrnehmung übergeordneter Aufgaben im Auftrag des BAV"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Prise en charge de tâches d’ordre supérieur sur mandat de l’OFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Assunzione di compiti preminenti su incarico dell’UFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Aufgaben und Zuständigkeiten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Wahrnehmung übergeordneter Aufgaben im Auftrag des BAV"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 54a Loi sur la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/26/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 54a Legge sulla trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/26/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 54a Öffentlichkeitsgesetz"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/26/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Disclosing legal entities’ data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Datenbearbeitung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/544/text/20221001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/544/text/20221001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 20 Trattamento dei dati"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/544/text/20221001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Princip da transparenza per las infurmaziuns davart l’ambient"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Berichterstattung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapport"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapporto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20231101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20231101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20231101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20250615"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20250615"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20250615"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapport"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20251101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapporto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20251101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Berichterstattung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20251101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Excepziun dal princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Communicaziun da datas da persunas giuridicas"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20231101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception from the principle of freedom of information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Principles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Excepziun dal princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2024/118/text/20240401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2024/118/text/20240401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2024/118/text/20240401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2024/118/text/20241001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2024/118/text/20241001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 18 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2024/118/text/20241001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Compiti e competenze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Tâches et compétences"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Aufgaben und Zuständigkeiten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Wahrnehmung übergeordneter Aufgaben im Auftrag des BAV"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Prise en charge de tâches d’ordre supérieur sur mandat de l’OFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Assunzione di compiti preminenti su incarico dell’UFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Gebührenbemessung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/838/text/20070101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Calcul des émoluments"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/838/text/20070101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Calcolo delle tasse"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/838/text/20070101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24e Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/853/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24e Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/853/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24e Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/853/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Grundsätze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Principi"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Principes"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Principles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Zugang zu amtlichen Dokumenten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accès aux documents officiels"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accesso a documenti ufficiali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20220701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Publicité de l’administration de la justice"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Principio di pubblicità in relazione all’amministrazione della giustizia"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Öffentlichkeitsprinzip in Bezug auf die Justizverwaltung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Grundsatz und Geltungsbereich"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principe et champ d’application"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principio e campo d’applicazione"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Ausnahme vom Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Deroga al principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception au principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Informationsaustausch und Datenbearbeitung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230320"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Échange d’informations et traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230320"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Scambio di informazioni e trattamento dei dati"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230320"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 27m Infurmaziun dals votants"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Grundsatz und Ausnahmen vom Geltungsbereich"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/533/text/20230123"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principe et exceptions au champ d’application"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/533/text/20230123"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principio ed eccezioni relativi al campo d’applicazione"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/533/text/20230123"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Öffentlichkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20231204"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Publicité"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20231204"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Pubblicità"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20231204"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Vorbehalte der Schweiz"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20250420"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Réserves de la Suisse"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20250420"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Berichterstattung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapport"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 23 Rapporto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/329/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Ausnahme vom Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20200324"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Deroga al principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20200324"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Excepziun dal princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20200324"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception from the principle of freedom of information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20200324"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception au principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20200324"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Scambio di informazioni e trattamento dei dati"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230319"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Informationsaustausch und Datenbearbeitung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230319"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 6 Échange d’informations et traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2023/135/text/20230319"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Processing personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Öffentlichkeitsprinzip in Bezug auf die Justizverwaltung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20240901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Principio di pubblicità in relazione all’amministrazione della giustizia"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20240901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Publicité de l’administration de la justice"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20240901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Grundsatz und Geltungsbereich"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20191201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principe et champ d’application"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20191201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 1 Principio e campo d’applicazione"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2016/270/text/20191201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Datenbearbeitung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/492/text/20220905"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/492/text/20220905"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 19 Trattamento dei dati"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/492/text/20220905"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20230101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Grundsätze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Principi"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 13 Principes"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2007/414/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Publicité de l’administration de la justice"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20230601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Principio di pubblicità in relazione all’amministrazione della giustizia"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20230601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 22 Öffentlichkeitsprinzip in Bezug auf die Justizverwaltung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/825/text/20230601"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Bearbeitung von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Trattamento di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 54a Freedom of Information Act"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2015/26/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Compiti e competenze"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9f Tâches et compétences"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 14 Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Prise en charge de tâches d’ordre supérieur sur mandat de l’OFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 37 Assunzione di compiti preminenti su incarico dell’UFT"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347/text/20240701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 9 Transparency"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2005/542/text/20231204"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20240201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Processing personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20210701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information relative à la surveillance"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24 Aktenführung und Geheimhaltung"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/814/text/20130101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24 Gestion et confidentialité des dossiers"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/814/text/20130101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 24 Gestione degli atti e tutela del segreto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2012/814/text/20130101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Processing personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240915"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Princip da transparenza per las infurmaziuns davart l’ambient"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception from the principle of freedom of information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Deroga al principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Exception au principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procedure for disclosing official documents that contain personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Further tasks"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Disclosure of personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20230901"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20230701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20230701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio della trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20230701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio della trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/444/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 27m Informazione degli aventi diritto di voto"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 27m Information der Stimmberechtigten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 27m Information des électeurs"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1978/712_712_712/text/20190701"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20210101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Information über die Aufsichtstätigkeit"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 52a Informazione sulla vigilanza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2009/680/text/20220101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20240213"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 64 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/834/text/20240213"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Bearbeitung von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Trattamento di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Bearbeitung von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240915"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240915"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Trattamento di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20240915"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": ""
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/356/text/20231101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 67 Ausnahme vom Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2017/494/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Rapport avec d’autres lois fédérales"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Verhältnis zu anderen Erlassen des Bundes"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Rapporto con altre leggi federali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20240101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260801"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260801"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260801"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accès aux documents officiels"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20260815"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Accesso a documenti ufficiali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20260815"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 11 Zugang zu amtlichen Dokumenten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2008/323/text/20260815"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Princip da transparenza per las infurmaziuns davart l’ambient"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20260612"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20260612"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20260612"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 30 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/352/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 25a Principe de transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/72/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 25a Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2010/72/text/20270101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Processing personal data"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20251201"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260513"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260513"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260513"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260801"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Freedom of information in the case of environmental information"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250101"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Traitement des données"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Trattamento di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 39 Bearbeitung von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/568/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Rapport avec d’autres lois fédérales"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Rapporto con altre leggi federali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Verhältnis zu anderen Erlassen des Bundes"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Communication de données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procédure en cas de communication de documents officiels contenant des données personnelles"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Autres tâches"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Comunicazione di dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Procedura in caso di comunicazione di documenti ufficiali che contengono dati personali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Altri compiti"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 36 Bekanntgabe von Personendaten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 42 Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 58 Weitere Aufgaben"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/491/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principe de transparence pour les informations sur l’environnement"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Principio di trasparenza per le informazioni ambientali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Öffentlichkeitsprinzip bei Umweltinformationen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Rapport avec d’autres lois fédérales"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20251001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Rapporto con altre leggi federali"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20251001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 4 Verhältnis zu anderen Erlassen des Bundes"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2022/232/text/20251001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Communication de données concernant des personnes morales"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20250501"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Comunicazione di dati concernenti persone giuridiche"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20250501"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Bekanntgabe von Daten juristischer Personen"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20250501"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Riserve della Svizzera"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20250420"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Réserves de la Suisse"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20250325"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Riserve della Svizzera"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20250325"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Vorbehalte der Schweiz"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2014/235/text/20250325"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Princip da transparenza per las infurmaziuns davart l’ambient"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20250401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 57s Communicaziun da datas da persunas giuridicas"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022/text/20250501"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principe de la transparence"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Principio di trasparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Öffentlichkeitsprinzip"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 28 Princip da transparenza"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2006/218/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 10g Princip da transparenza per las infurmaziuns davart l’ambient"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/text/20260401"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 46"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2026/323/text/20261001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 46"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2026/323/text/20261001"
+        }
+      },
+      {
+        "desc": {
+          "type": "literal",
+          "value": "Art. 46"
+        },
+        "src": {
+          "type": "uri",
+          "value": "https://fedlex.data.admin.ch/eli/cc/2026/323/text/20261001"
+        }
+      }
+    ],
+    "distinct": false,
+    "ordered": true
+  }
+}

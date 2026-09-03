@@ -1,0 +1,37 @@
+[package]
+name = "oh-mcp-fedlex"
+version = "0.6.0"
+edition = "2021"
+description = "fedlex domain MCP server, base tier (L2.2): the bitemporal citation loop over the public Fedlex SPARQL endpoint"
+
+[lib]
+name = "oh_mcp_fedlex"
+path = "src/lib.rs"
+
+[dependencies]
+anyhow = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rmcp = { version = "=3.1.3", features = ["server", "transport-io"] }
+schemars = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "io-std"] }
+ureq = { version = "=3.4.0", features = ["json"] }
+sha2 = "=0.11.0"
+# Vendored upstream machinery (Apache-2.0, third_party/mcp-fedlex,
+# pin 64e0ec3 — PROVENANCE.md): the matured Akoma-Ntoso layer binds
+# the XML tools (read_article, get_structure, search_text,
+# read_document, get_references, get_modifications, list_annexes);
+# the JOLux primitives bind the BQ graph tools (article history,
+# subdivisions, vocabulary, related topics) over the KeyedClient
+# bridge in backend.rs; core carries the temporal/response types.
+# No direct dependency is added beyond the three vendored crates
+# (async-trait arrives transitively through fedlex-jolux; the bridge
+# implements its expanded trait signature by hand).
+fedlex-akn = { path = "../../../third_party/mcp-fedlex/fedlex-akn" }
+fedlex-core = { path = "../../../third_party/mcp-fedlex/fedlex-core" }
+fedlex-jolux = { path = "../../../third_party/mcp-fedlex/fedlex-jolux" }
+time = { version = "0.3", features = ["parsing", "formatting"] }
+# The polite brake and the semantic fixture store, shared with the
+# LINDAS server since BX — this crate built both and gave them away
+# rather than let the second server copy them (E15).
+oh-mcp-common = { path = "../common" }
