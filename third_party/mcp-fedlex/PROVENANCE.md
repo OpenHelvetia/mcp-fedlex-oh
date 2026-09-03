@@ -45,11 +45,10 @@ workspace stub, below).
 
 ## Board transparency note
 
-The upstream authors are **board-adjacent** (mindful.bio GmbH — Alex
-Camenzind; the fedlex family is the platform's editorial reference
-project no. 1). Per the Art.-12 disclosure culture this fact is
-**disclosed to the board as a note — it is not a consent
-requirement**: the sealed-E15 re-read (commit `f2cfe33`) established
+The upstream authors are **close to the association's board** (the
+fedlex family is the platform's editorial reference project no. 1).
+Per the Art.-12 disclosure culture this fact is **disclosed to the
+board as a note — it is not a consent requirement**: the sealed-E15 re-read (commit `f2cfe33`) established
 that the published Apache-2.0 license IS the license act; reuse takes
 attribution + this provenance discipline, nothing more.
 

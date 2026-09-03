@@ -4,7 +4,7 @@ type: Reference
 status: informative (reference); the conformance table is gated by a test
 language: English
 updated: 2026-08-30
-owner: Jonathan
+owner: Verein OpenHelvetia
 review-by: 2026-12-31
 maintenance: a rule changes only when the data changes; a status changes with every wave that touches the server
 ---

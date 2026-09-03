@@ -7,8 +7,9 @@ spec (REFERENCE.md; TOOLSET-v0.md for the spine, TOOLSET-v1.md for
 the navigator surface — assignment S, extended at BQ): the bitemporal
 citation loop, in-act navigation and the citation pair as thirty-five MCP tools over the
 PUBLIC Fedlex SPARQL endpoint of the federal administration and the
-Akoma-Ntoso manifestations it points at. The upstream workspace
-(github.com/mindful-bio/mcp-fedlex, Apache-2.0) is integration
+Akoma-Ntoso manifestations it points at. The upstream reference workspace
+(Apache-2.0; source, commit and hashes in
+`third_party/mcp-fedlex/PROVENANCE.md`) is integration
 material with attribution + provenance discipline (E15 as sealed;
 third_party/mcp-fedlex, PROVENANCE.md): the XML tools bind the
 vendored `fedlex-akn` layer, the graph tools the vendored

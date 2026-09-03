@@ -214,7 +214,7 @@ Anything else: open an issue in this repository with the command you ran and the
 
 The association develops all its modules in one corpus, on its own GitLab, where every change runs through a gate (formatting, Clippy without warnings, all tests, seal and drift checks). This repository is **assembled from that corpus** by the publication lane (`tools/publish-module.sh` there): it takes the crate and exactly the files its build and tests need, runs the tests in the assembled tree, and pushes here. Each publication is one commit whose message names the corpus commit.
 
-This copy was published from corpus commit `6489121` on 2026-09-03.
+This copy was published from corpus commit `e7d088f` on 2026-09-03.
 
 On the association's website the module has a card with its state, evidence and dependencies — <https://openhelvetia.swiss/en/directory/building-blocks/fedlex-engine/> — and a guide: <https://openhelvetia.swiss/en/docs/infrastructure/module-fedlex-engine/>. The module is the association's own entry in its directory; the entry page names the endpoint and the probe.
 

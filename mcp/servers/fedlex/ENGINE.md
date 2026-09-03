@@ -31,7 +31,7 @@ cache + live SPARQL, no index of its own. The **semantic** tier is a
 sister component (reference: `mcp-fedlex-semantic`, embedding search
 with its own indexer); the **skills** tier composes primitives into
 auditable reasoning steps (reference: `mcp-fedlex-skills`); the
-generative layer above (ansV) is a *usage* context, not a domain
+generative layer above (the reference project's orchestrator) is a *usage* context, not a domain
 server concern. This is exactly E15's «gestuftes Ensemble —
 Basis-Zugriff (günstig, zustandslos), Semantik-Stufe samt Indexer, wo
 sie sich lohnt, Skills obendrauf».
@@ -255,7 +255,7 @@ as a literal to pass.
 
 ## 7. Component map — where the prototype's parts land in the platform
 
-*(Recorded 21.08.2026 from Jonathan's architecture sorting, verified
+*(Recorded 21.08.2026 from the association's architecture sorting, verified
 against the sealed corpus — the decisions already place each part.)*
 
 | Prototype component | Platform home | Grounds |
@@ -264,13 +264,13 @@ against the sealed corpus — the decisions already place each part.)*
 | `mcp-fedlex-semantic` (+ indexer) | **the semantic tier of THIS ensemble** — a sister server, phase 2 | E15 Ziff. 1/2 (tier with own resource/cost profile), E11 (paid tiers begin where platform resources are spent) — «premium» is literally the sealed model |
 | `mcp-fedlex-skills` | **content in the GENERAL skill mechanism** (skills/ per VISION §4, L4.4; format per E08, listing per the SUITES.md mechanics) | the format is platform-general, the skill is domain content — that resolves the «fedlex-specific yet ecosystem-integrated» tension; E15: skills are the thin closing layer, generative outputs stay marked drafts |
 | `mcp-fedlex-memory` | **NOT part of this engine** — the platform memory domain (memory/ per VISION §4, L4.1–L4.3; Portable Agent Memory is a standard candidate) | the sealed E15 trio deliberately EXCLUDES memory, and E15 rejects «engine fills memory/org» (E07 poisoning rules; «wir generieren keine Daten») — memory serves every infrastructure, not one domain |
-| `ansV` (mounts all three) | the orchestrator pattern (L4.6 discovery & orchestration); its citizen face is the chat demonstrator (L5.2/M3) | VISION §5 two-stage discovery |
+| the reference orchestrator (mounts all three) | the orchestrator pattern (L4.6 discovery & orchestration); its citizen face is the chat demonstrator (L5.2/M3) | VISION §5 two-stage discovery |
 
 License nuance on record: `mcp-fedlex` is PUBLISHED (Apache-2.0 —
 vendored with provenance, third_party/). The sister repos
 (`-semantic`, `-skills`, `-memory`) are, as of this note, not known
-to be published — reusing THEIR code needs mindful.bio's explicit
-license/publication act first (the corrected E15 reading applies
+to be published — reusing THEIR code needs the upstream authors' explicit
+licence/publication act first (the corrected E15 reading applies
 only to published code). Named input for the phase-2/3 items.
 
 ## Citations
@@ -282,7 +282,7 @@ only to published code). Named input for the phase-2/3 items.
 - Upstream docs at the same commit (not vendored):
   `docs/handbuch/HANDBUCH.en.md`, `docs/dev/10_LEXICON_jolux.md`,
   `docs/dev/11_LEXICON_akn.md`, `docs/dev/adr/ADR-003`, `ADR-010`,
-  `ADR-011` — repository github.com/mindful-bio/mcp-fedlex.
+  `ADR-011` — the upstream repository named in `third_party/mcp-fedlex/PROVENANCE.md`.
 - Platform: `REFERENCE.md` (assignment S, retrieval-dated),
   `TOOLSET-v0.md` (v0 contract + deviations), `TOOLSET-v1.md` (the
   BQ navigator surface, upstream → `fedlex.<id>` → status map),
