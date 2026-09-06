@@ -2,6 +2,8 @@
 name = "oh-mcp-fedlex"
 version = "0.6.0"
 edition = "2021"
+license = "Apache-2.0"
+publish = false
 description = "fedlex domain MCP server, base tier (L2.2): the bitemporal citation loop over the public Fedlex SPARQL endpoint"
 
 [lib]

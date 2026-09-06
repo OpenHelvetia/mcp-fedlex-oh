@@ -1,0 +1,43 @@
+# publiccode.yml — machine-readable description of this public software
+# (https://yml.publiccode.tools/, version 0.4). Assembled by the
+# association's publication lane; nothing here is an invitation, it is
+# a description.
+publiccodeYmlVersion: "0.4"
+name: mcp-fedlex-oh
+url: "https://github.com/OpenHelvetia/mcp-fedlex-oh"
+landingURL: "https://openhelvetia.swiss"
+developmentStatus: development
+softwareType: standalone/other
+platforms:
+  - linux
+  - mac
+categories:
+  - knowledge-management
+intendedAudience:
+  countries:
+    - ch
+  scope:
+    - government
+    - research-and-innovation
+legal:
+  license: Apache-2.0
+  mainCopyrightOwner: Verein OpenHelvetia
+  repoOwner: Verein OpenHelvetia
+maintenance:
+  type: internal
+  contacts:
+    - name: Verein OpenHelvetia
+      email: admin@openhelvetia.swiss
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - en
+description:
+  en:
+    shortDescription: >-
+      MCP server over the Confederation's Fedlex infrastructure: Swiss federal law with the bitemporal citation loop, 35 tools, every answer with its source
+    longDescription: >-
+      MCP server over the Confederation's Fedlex infrastructure: Swiss federal law with the bitemporal citation loop, 35 tools, every answer with its source. One module of the OpenHelvetia platform, developed
+      in the association's corpus and published from it; the README
+      says which corpus commit this copy comes from and how to build,
+      test and run it offline on recorded fixtures.

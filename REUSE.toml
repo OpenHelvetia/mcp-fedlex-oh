@@ -1,0 +1,24 @@
+# REUSE 3.3 (https://reuse.software) — the licence of every file in this
+# repository, by path. Assembled by the association's publication lane.
+version = 1
+SPDX-PackageName = "mcp-fedlex-oh"
+SPDX-PackageSupplier = "Verein OpenHelvetia <admin@openhelvetia.swiss>"
+SPDX-PackageDownloadLocation = "https://github.com/OpenHelvetia/mcp-fedlex-oh"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Verein OpenHelvetia"
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = "third_party/mcp-fedlex/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "the upstream authors, see third_party/mcp-fedlex/PROVENANCE.md"
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = [ "mcp/servers/fedlex/tests/fixtures/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Swiss Confederation — recorded answers of public federal endpoints (Fedlex, LINDAS), see the terms named there"
+SPDX-License-Identifier = "LicenseRef-Federal-Source-Terms"

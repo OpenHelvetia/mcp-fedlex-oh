@@ -1,0 +1,16 @@
+LicenseRef-Federal-Source-Terms
+
+The files annotated with this identifier are recorded answers of public
+endpoints of the Swiss Confederation, kept byte-frozen as test fixtures:
+
+- Fedlex SPARQL endpoint (https://fedlex.data.admin.ch/sparqlendpoint),
+  published by the Federal Chancellery; terms of use of the Fedlex
+  platform apply (https://www.fedlex.admin.ch/de/legal-notice).
+- LINDAS SPARQL endpoint (https://lindas.admin.ch/sparql), the politics
+  cubes published under https://politics.ld.admin.ch/; terms of use of
+  opendata.swiss / the respective publisher apply.
+
+The association claims no copyright in these recordings. They are
+redistributed here solely so that the modules can be tested offline and
+their results reproduced; re-recording is a deliberate, documented act.
+Use of the data is governed by the terms of the respective source.
