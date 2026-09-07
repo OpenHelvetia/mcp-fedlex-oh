@@ -467,9 +467,15 @@ fn parse_version(eli_version: &str) -> std::result::Result<VersionRef<'_>, Value
                 date: format!("{}-{}-{}", &d[0..4], &d[4..6], &d[6..8]),
             })
         }
-        _ => Err(invalid(
-            "eli_version must be <abstract-eli>/<YYYYMMDD> (a dated consolidation)",
-        )),
+        // Said with the way to a dated version, because a model that
+        // had just read the act's `eli` passed it here, was told the
+        // shape, and passed it again (07.09.2026).
+        _ => Err(invalid(&format!(
+            "eli_version must be <abstract-eli>/<YYYYMMDD> (a dated consolidation); \
+             «{eli_version}» is not one. fedlex.resolve_consolidation_at (eli + as_of) gives \
+             the version in force on a day, fedlex.list_versions every version of the act — \
+             take `eli_version` from their answer"
+        ))),
     }
 }
 
@@ -588,10 +594,13 @@ fn load_version(
         return Ok(Err(json!({
             "error": "not-found",
             "subject": format!("{} ({lang_tag}) — no XML manifestation", version.eli_version),
-            "detail": "XML manifestations exist only for recent consolidations; \
-                       older versions are PDF-only (upstream reality, vendored \
-                       fedlex-jolux J14.2) — fedlex.list_expressions shows the \
-                       formats a version has"
+            "detail": format!(
+                "no XML manifestation of this version in «{lang_tag}»: English and \
+                 Romansh exist only for selected acts — try de, fr or it — and older \
+                 consolidations are PDF-only in every language (upstream reality, \
+                 vendored fedlex-jolux J14.2); fedlex.list_expressions shows the \
+                 languages and formats this version has"
+            )
         })));
     };
     let fetched = match ctx.backend.fetch_manifestation(

@@ -756,6 +756,28 @@ pub fn sparql_escape(input: &str) -> Result<String> {
 
 /// IRI safety for interpolation into `<…>`: refuse anything that
 /// could break out of the IRI position.
+/// `cc/1999/404`, `cc/1999/404/20260907`, `oc/2024/12` — the tail of a
+/// Fedlex ELI after `/eli/`, which is what the chat's citation keys
+/// carry: a collection of two lowercase letters, then segments of
+/// letters, digits and `_`.
+fn looks_like_short_eli(key: &str) -> bool {
+    let mut parts = key.split('/');
+    let Some(collection) = parts.next() else {
+        return false;
+    };
+    if collection.len() != 2 || !collection.chars().all(|c| c.is_ascii_lowercase()) {
+        return false;
+    }
+    let mut rest = 0;
+    for part in parts {
+        if part.is_empty() || !part.chars().all(|c| c.is_ascii_alphanumeric() || c == '_') {
+            return false;
+        }
+        rest += 1;
+    }
+    (2..=3).contains(&rest)
+}
+
 pub fn iri_safe(input: &str) -> Result<&str> {
     if input.is_empty()
         || !input.starts_with("https://fedlex.data.admin.ch/eli/")
@@ -763,7 +785,36 @@ pub fn iri_safe(input: &str) -> Result<&str> {
             .chars()
             .any(|c| c.is_whitespace() || c == '<' || c == '>' || c == '"')
     {
-        bail!("invalid-input: not a Fedlex ELI IRI");
+        // Said with the shape and the source, because a model that
+        // invented «BV/20240303» here had the real ELI in the answer
+        // it had just read (07.09.2026). And when what came in is the
+        // SHORT FORM the chat cites an act by — «cc/1999/404», which
+        // the same model handed back three times in a row — the
+        // refusal names the IRI it stands for instead of only the rule.
+        let shown: String = input.chars().take(60).collect();
+        let trimmed = input.trim().trim_start_matches('/');
+        let key = trimmed
+            .strip_prefix("eli/")
+            .unwrap_or(trimmed)
+            .split_once('#')
+            .map_or(
+                trimmed.strip_prefix("eli/").unwrap_or(trimmed),
+                |(eli, _)| eli,
+            );
+        if looks_like_short_eli(key) {
+            bail!(
+                "invalid-input: «{shown}» is the short form a citation key uses, not the \
+                 ELI IRI — the IRI is https://fedlex.data.admin.ch/eli/{key}; pass that \
+                 (a dated version adds /<YYYYMMDD>, taken from list_versions or \
+                 resolve_consolidation_at)"
+            );
+        }
+        bail!(
+            "invalid-input: «{shown}» is not a Fedlex ELI IRI — an act's ELI reads \
+             https://fedlex.data.admin.ch/eli/cc/<year>/<number> (the `eli` field of \
+             resolve_sr, search_law or get_law_metadata), a dated version adds /<YYYYMMDD> \
+             (the `eli_version` of list_versions or resolve_consolidation_at)"
+        );
     }
     Ok(input)
 }
